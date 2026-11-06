@@ -1,0 +1,223 @@
+{
+  "checks": [
+    "Dirty exports recover generated source records except documented omissions",
+    "Unique cleaned keys and valid foreign keys",
+    "Valid payment amounts, grace-period lapses, and event transitions",
+    "Product-specific competing exits and ordered service dates",
+    "T001 matches June 2024 unpaid premium and July 2 lapse example",
+    "Chronological train/validation/test, at-cutoff features, and frozen top-100 baseline/model lists execute",
+    "Fixed starting-policy cohort end-status retention aggregates correctly by product; reinstatements do not erase lapse events"
+  ],
+  "tables": {
+    "policies": {
+      "raw_rows": 4040,
+      "clean_rows": 4000,
+      "columns": 8,
+      "duplicate_rows_removed": 40,
+      "missing_values": {
+        "premium": 94,
+        "distribution_channel": 129,
+        "age_band": 133
+      }
+    },
+    "payments": {
+      "raw_rows": 94152,
+      "clean_rows": 93220,
+      "columns": 6,
+      "duplicate_rows_removed": 932,
+      "missing_values": {
+        "payment_received_date": 1465
+      }
+    },
+    "events": {
+      "raw_rows": 2372,
+      "clean_rows": 2349,
+      "columns": 3,
+      "duplicate_rows_removed": 23,
+      "missing_values": {}
+    },
+    "service": {
+      "raw_rows": 6919,
+      "clean_rows": 6851,
+      "columns": 4,
+      "duplicate_rows_removed": 68,
+      "missing_values": {
+        "resolution_date": 2026
+      }
+    }
+  },
+  "snapshots": [
+    {
+      "split": "train",
+      "cutoff": "2023-06-30",
+      "eligible": 3758,
+      "evaluable": 3737,
+      "competing_exit_exclusions": 21,
+      "lapses": 133
+    },
+    {
+      "split": "train",
+      "cutoff": "2023-09-30",
+      "eligible": 3647,
+      "evaluable": 3626,
+      "competing_exit_exclusions": 21,
+      "lapses": 132
+    },
+    {
+      "split": "train",
+      "cutoff": "2023-12-31",
+      "eligible": 3535,
+      "evaluable": 3515,
+      "competing_exit_exclusions": 20,
+      "lapses": 126
+    },
+    {
+      "split": "validation",
+      "cutoff": "2024-04-30",
+      "eligible": 3367,
+      "evaluable": 3351,
+      "competing_exit_exclusions": 16,
+      "lapses": 113
+    },
+    {
+      "split": "validation",
+      "cutoff": "2024-07-31",
+      "eligible": 3288,
+      "evaluable": 3265,
+      "competing_exit_exclusions": 23,
+      "lapses": 106
+    },
+    {
+      "split": "test",
+      "cutoff": "2025-04-30",
+      "eligible": 2925,
+      "evaluable": 2851,
+      "competing_exit_exclusions": 74,
+      "lapses": 113
+    },
+    {
+      "split": "test",
+      "cutoff": "2025-07-31",
+      "eligible": 2775,
+      "evaluable": 2703,
+      "competing_exit_exclusions": 72,
+      "lapses": 92
+    },
+    {
+      "split": "test",
+      "cutoff": "2025-09-30",
+      "eligible": 2694,
+      "evaluable": 2610,
+      "competing_exit_exclusions": 84,
+      "lapses": 88
+    }
+  ],
+  "model": {
+    "train": {
+      "rows": 10878,
+      "lapses": 391,
+      "roc_auc": 0.7462
+    },
+    "validation": {
+      "rows": 6616,
+      "lapses": 219,
+      "roc_auc": 0.7336
+    },
+    "test": {
+      "rows": 8164,
+      "lapses": 293,
+      "roc_auc": 0.7298
+    }
+  },
+  "capacity_evaluation": [
+    {
+      "cutoff": "2025-04-30",
+      "method": "model",
+      "selected": 100,
+      "evaluable_selected": 91,
+      "precision": 0.5055,
+      "recall": 0.4071
+    },
+    {
+      "cutoff": "2025-04-30",
+      "method": "overdue_baseline",
+      "selected": 100,
+      "evaluable_selected": 99,
+      "precision": 0.4848,
+      "recall": 0.4248
+    },
+    {
+      "cutoff": "2025-07-31",
+      "method": "model",
+      "selected": 100,
+      "evaluable_selected": 93,
+      "precision": 0.3226,
+      "recall": 0.3261
+    },
+    {
+      "cutoff": "2025-07-31",
+      "method": "overdue_baseline",
+      "selected": 100,
+      "evaluable_selected": 97,
+      "precision": 0.3196,
+      "recall": 0.337
+    },
+    {
+      "cutoff": "2025-09-30",
+      "method": "model",
+      "selected": 100,
+      "evaluable_selected": 88,
+      "precision": 0.3068,
+      "recall": 0.3068
+    },
+    {
+      "cutoff": "2025-09-30",
+      "method": "overdue_baseline",
+      "selected": 100,
+      "evaluable_selected": 93,
+      "precision": 0.3011,
+      "recall": 0.3182
+    }
+  ],
+  "retention": {
+    "policies": 4000,
+    "events_by_type": {
+      "lapse": 1438,
+      "reinstatement": 449,
+      "term_expiry": 177,
+      "death_claim": 118,
+      "maturity": 62,
+      "surrender": 56,
+      "cancellation": 49
+    },
+    "products": {
+      "term_life": 2016,
+      "whole_life": 1381,
+      "endowment": 603
+    },
+    "end_status_by_product": {
+      "endowment": {
+        "policies": 603,
+        "active_at_end": 354,
+        "end_status_retention": 0.5870646766169154
+      },
+      "term_life": {
+        "policies": 2016,
+        "active_at_end": 1229,
+        "end_status_retention": 0.6096230158730159
+      },
+      "whole_life": {
+        "policies": 1381,
+        "active_at_end": 966,
+        "end_status_retention": 0.6994931209268646
+      }
+    }
+  },
+  "sha256": {
+    "policies.csv": "7adb27b494a5f9be4e624ce3f43d0f8534e1d3e8eac03b105e2c282b1705d119",
+    "payments.csv": "c4546da042046f253c2c8190b029ccdb797a4f728e0c32bb629da48e7b600730",
+    "events.csv": "e11edf54968cd8984332d9a8bcc0924aa524944fc432606b3b7a3dc979e4a60f",
+    "service.csv": "754ab63951a0a57fe47f888d90c8aaeeca07f11c05cb421144690800013e8a19"
+  },
+  "status": "passed"
+}

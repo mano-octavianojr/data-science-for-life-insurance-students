@@ -1,0 +1,2373 @@
+policy_id,status_change_date,event_type
+P00936,2024/05/01,reinstatement
+P01964,"February 01, 2025",lapse
+P02001,01-Apr-2025,lapse
+P01433,2025-05-02,lapse
+P00427,2023-06-01,lapse
+P00267,02-Oct-2024,lapse
+P02396,2025-06-01,lapse
+P00267,2024-11-01,reinstatement
+p00402,2024-09-01,REINSTATEMENT
+P01462,01-Oct-2025,death_claim
+P01323,2024/04/01,LAPSE
+P00670,"April 01, 2023",lapse
+P01320,2024-09-01,LAPSE
+P00982,2023-04-01,lapse
+p02384,01-Jul-2023,REINSTATEMENT
+P00530," April 01, 2024 ",LAPSE
+P03063,"October 02, 2024",lapse
+P02543,02-May-2025,lapse
+P00583,"March 01, 2025", TERM_EXPIRY 
+P00213,02-Jul-2025,lapse
+P03720,2023-03-04,lapse
+P03456,2025/04/01,term_expiry
+P03110,2024-01-01,lapse
+p03661,2023/02/01, LAPSE 
+P00457,"January 01, 2023",death_claim
+P01652,2023/07/02,lapse
+P03388, 2025/01/01 ,death_claim
+P02268,01-Jun-2025,reinstatement
+P00269,2025-11-01,lapse
+P00258,2023-02-01,lapse
+P03494,2025-03-01,term_expiry
+P02679,2023-07-02,lapse
+P01643,01-Jun-2024,surrender
+P00349,2024/05/01,reinstatement
+P01458,2025/02/01,cancellation
+P03033," December 02, 2023 ",lapse
+P01172,"June 01, 2024",lapse
+P01212,01-Nov-2025,maturity
+p02617,"April 01, 2025",reinstatement
+P03975,"August 01, 2023", lapse 
+P02400,2025/05/02,lapse
+P02591,"June 01, 2024",reinstatement
+P02357,2023/06/01,lapse
+P01353,2024/04/01,lapse
+P02000,"July 02, 2025",lapse
+P00629,01-Aug-2025,term_expiry
+P02714,"March 01, 2025",maturity
+P03852,"June 01, 2025",term_expiry
+P02651,2024/05/02,lapse
+ P01903 ,"February 01, 2025",LAPSE
+P00037,2025/02/01,term_expiry
+P03853,2023-04-01,reinstatement
+P03122,2023-08-01, lapse 
+P00977,"May 02, 2025",lapse
+P03143,2025/10/02,lapse
+ P01718 ,"April 01, 2024",lapse
+P03164,01-Sep-2023,lapse
+P03889,"March 04, 2023",lapse
+p03550,2025-11-01, LAPSE 
+P02666,"September 01, 2023",reinstatement
+P01062,01-Feb-2024,reinstatement
+P02065,2023/04/01,lapse
+P03675,2023-06-01, lapse 
+P01904,"May 02, 2025",lapse
+P03048,"March 04, 2023",lapse
+P00412,2025-10-01,maturity
+P02192,2023/07/01,REINSTATEMENT
+P02208,2025/08/01,lapse
+P03983,2023/05/02,lapse
+P03129,2025/11/01,term_expiry
+P01471,02-May-2024,lapse
+p00370,"March 04, 2023",lapse
+P02013,02-May-2023,lapse
+P02684,"October 01, 2023",cancellation
+P01319,2025/10/01,reinstatement
+P00874,"March 04, 2023",lapse
+P01480,2025-04-01,death_claim
+P00134,02-May-2023,LAPSE
+P00193,"October 02, 2023",lapse
+P03237,01-Sep-2023,death claim
+P00936,"April 01, 2025", lapse 
+P02599,01-Oct-2025,maturity
+P01069,2025/06/01,lapse
+P02376,"April 01, 2024",reinstatement
+P01659,"September 01, 2024",reinstatement
+P02620,04-Mar-2023,lapse
+P01884,"April 01, 2023",reinstatement
+P03684,2025-05-02,lapse
+P01159,"April 01, 2025",surrender
+p03840,2024/10/02,lapse
+P00090,2024-04-01,lapse
+P03510,"July 02, 2023",lapse
+P03145,01-Apr-2023,lapse
+P00606,2023-07-02,lapse
+P00323,"April 01, 2023",death_claim
+P00049,"March 01, 2023",reinstatement
+P03690,2025-06-01,lapse
+P00389,2025/09/01,lapse
+P01853,01-Sep-2025,maturity
+P01673,2023-06-01,lapse
+P00527,"August 01, 2023",lapse
+P02207,04-Mar-2023,LAPSE
+P00458,2023/02/01,lapse
+P01340, 02-Dec-2025 ,lapse
+P02184, 02-Oct-2023 ,lapse
+P02707,01-Jan-2024,lapse
+p01511,01-Apr-2024,lapse
+P00113,"October 02, 2023",lapse
+P01060,2025/06/01,cancellation
+p02794,"December 01, 2025",MATURITY
+P00443,"May 02, 2023",lapse
+P01528,2025/11/01,cancellation
+P02032,2023-07-02,lapse
+P03709,"October 02, 2025",lapse
+p01684,2025-08-01,death_claim
+P03641,2023-03-04,lapse
+P00452,2023/11/01,lapse
+P01964,2025/03/01,reinstatement
+P01894,"July 02, 2023",lapse
+P03479,2025/07/02,lapse
+P01053,2024/11/01,reinstatement
+P00665,2023-05-02, lapse 
+ P02231 ,2024/05/01,REINSTATEMENT
+p02223,"September 01, 2024",death_claim
+p00329,04-Mar-2023,lapse
+P03479,2025/08/01,REINSTATEMENT
+P01681,2025/06/01,lapse
+P02406,2023-11-01,lapse
+P02195,2025/10/01,term_expiry
+P00352,2025-11-01,DEATH_CLAIM
+P03397, 2025-11-01 ,lapse
+P03951,"January 01, 2025",cancellation
+P01697,"August 01, 2023",lapse
+p02448,"March 04, 2023",lapse
+P02178,01-Nov-2025,term_expiry
+P03485,2024/01/01, lapse 
+P02568,2024/04/01,lapse
+ P02494 ,2023/12/01,cancellation
+P03626,"November 01, 2023",lapse
+P00693,2023-06-01,lapse
+P00990,2024/01/01,REINSTATEMENT
+P03218,2025/09/01,cancellation
+P00635,"September 01, 2025",lapse
+P01582,2025-05-02,lapse
+P01418,01-Sep-2024,lapse
+P00242,2024/01/01,lapse
+P00349,2024-04-01,lapse
+p03325,01-Apr-2023,LAPSE
+P01505,01-Apr-2024,lapse
+ P03066 ,2024-08-01,lapse
+P02133,2025/08/01,lapse
+P01672,"October 02, 2024",lapse
+p02596,2025-12-01,term_expiry
+P03946,"October 02, 2025",LAPSE
+P02581,2023/03/01,REINSTATEMENT
+P00594,"March 01, 2024",reinstatement
+P03948,2024-06-01,LAPSE
+P00950,01-Sep-2025,term_expiry
+p03636,01-Oct-2025,term_expiry
+P02413,01-Mar-2025, term_expiry 
+P01550,"November 01, 2023",lapse
+P02231,02-Dec-2024,LAPSE
+P01169,"November 01, 2023",lapse
+P03314,02-Jul-2023,lapse
+P01966, 2025-12-01 ,term_expiry
+P03670,"November 01, 2024",lapse
+P03224,01-Sep-2025,lapse
+P00503,01-Apr-2023,reinstatement
+P00953," March 01, 2025 ",maturity
+P01549,2024/06/01,reinstatement
+P03356,"May 02, 2023",lapse
+P03297,2023-11-01,lapse
+P03509,2025-09-01,LAPSE
+P00470,"January 01, 2024",lapse
+P00590,2024/06/01,lapse
+P00753,01-Nov-2023,lapse
+P01311,"August 01, 2024",lapse
+P02633,04-Mar-2023,lapse
+P00539,01-Aug-2025,LAPSE
+P01978,2023-03-04,lapse
+P01776,2024-02-01,lapse
+P02003,2023-04-01,lapse
+P01094,2025/10/02,lapse
+P00957,2025/11/01,term_expiry
+P01744,2024-01-01,lapse
+P01209,01-May-2023,REINSTATEMENT
+P03496,"February 01, 2023",lapse
+P00401,2023/08/01,lapse
+P01484,2024/02/01,lapse
+P02484,01-Dec-2023,death_claim
+P03018,2024-01-01,lapse
+P03947,"February 01, 2023",lapse
+P02475,2023-02-01,lapse
+P02106,"September 01, 2025",lapse
+P01682,"September 01, 2024",reinstatement
+P01549,2024/05/02,lapse
+P03224,2025/10/01,reinstatement
+P03413,"September 01, 2023",reinstatement
+P02432,2024-10-01,reinstatement
+P00068, 2024/07/01 ,reinstatement
+P02228,"January 01, 2024",reinstatement
+P03511, 2025-08-01 , lapse 
+P03530,02-May-2025,lapse
+p03771,"May 02, 2024",lapse
+P03599,2025-04-01, term_expiry 
+P00437,2023/03/04,lapse
+P00675,01-Mar-2025,term_expiry
+P03261,"May 02, 2024",lapse
+P03448,2024/05/02,lapse
+P03063,2024-03-03,lapse
+P03003,02-Dec-2023,lapse
+p03268,02-Dec-2023,lapse
+P02829,01-Jan-2025,lapse
+P01263,"December 02, 2023",LAPSE
+p01465,2024-05-02,lapse
+P03143,2025/11/01,reinstatement
+P03776,2025-04-01,reinstatement
+p00617,01-Dec-2025,surrender
+P00498,2023/12/02,lapse
+P00390,2023-06-01,DEATH_CLAIM
+P02228,2023-12-02,lapse
+P03555,02-May-2024,lapse
+P01653," June 01, 2025 ",lapse
+P00257,2024-10-01,reinstatement
+P00776,01-Feb-2024,reinstatement
+P00414,"November 01, 2024",lapse
+P01227,2025/05/01,reinstatement
+p00096,2025-03-01,term_expiry
+P01922,2024/11/01,lapse
+P01567,01-Aug-2024,lapse
+P01746,"July 02, 2025",lapse
+P02739,01-Apr-2024, lapse 
+P01525,"November 01, 2024",LAPSE
+P02040,2024/03/03,lapse
+P00393,01-Sep-2023,death_claim
+P02647,2024/10/01,reinstatement
+P00805,2024/12/02,lapse
+P02729,"April 01, 2023",reinstatement
+P01764,2025-02-01,lapse
+P00280,01-Apr-2025,term_expiry
+P00472,02-May-2023,lapse
+P01594,"April 01, 2025",lapse
+P00880,"April 01, 2025",death_claim
+P00048,2025/07/02,lapse
+p01584,2025/05/01,term_expiry
+P02924,2023-12-02,lapse
+P02928,"August 01, 2024",reinstatement
+P01843,01-Sep-2025,lapse
+P02589,"September 01, 2024",death_claim
+P03287,01-Dec-2025,term_expiry
+P02163,02-May-2023,lapse
+P01098,2025-12-01,reinstatement
+P01803,01-Sep-2024,lapse
+P03999,2023/02/01,LAPSE
+P00368,2025-01-01,lapse
+ P00712 ,2025/07/01,term expiry
+P03659,"November 01, 2024",reinstatement
+P03260,2025/12/01,term_expiry
+P01263,"December 02, 2023",LAPSE
+P02581,2023/04/01,lapse
+P02293,01-Jun-2024,lapse
+P02229,2023/09/01,lapse
+P02667,"October 01, 2024",reinstatement
+P03260, 2023/02/01 ,lapse
+P01260,02-Dec-2025,lapse
+P03991,02-Jul-2023,lapse
+P02136,"September 01, 2023",lapse
+P00095,"January 01, 2025",term_expiry
+P01100,"December 01, 2025",term_expiry
+P01262,02-May-2023,lapse
+P00012, 2024-04-01 ,lapse
+P03303,2023/05/01,reinstatement
+P03685,"February 01, 2024",lapse
+p03558,"December 02, 2024",lapse
+P02929,"January 01, 2024",REINSTATEMENT
+P00111,01-Aug-2024,lapse
+P01974,2023/05/02,lapse
+P00339,2023/06/01,reinstatement
+ P00594 ,"January 01, 2025",term_expiry
+p00906,2025/02/01,LAPSE
+P01820,01-Feb-2024,lapse
+P03518,2024-04-01,lapse
+P02816,"July 01, 2023",SURRENDER
+ P03137 ,"October 01, 2025",REINSTATEMENT
+P01222,"March 04, 2023",LAPSE
+p01419,02-Jul-2024,lapse
+P02000,01-May-2024,reinstatement
+P03291,"June 01, 2023",reinstatement
+p00366,2023-11-01,LAPSE
+P00258,2024-11-01,death_claim
+P01093,02-Dec-2025,lapse
+ P01037 ,2023-11-01,CANCELLATION
+P01267,2024-10-02,lapse
+P00856,2024/01/01,death_claim
+ P02570 ,"January 01, 2025",term_expiry
+P02917,01-May-2024,reinstatement
+P02526,2023/03/04,lapse
+P00300,2025/02/01,DEATH_CLAIM
+P02986," June 01, 2023 ",lapse
+P00422,01-Feb-2023,lapse
+P01025,2023-10-02,lapse
+P02305,2025-04-01,lapse
+P03925,"October 01, 2025",term_expiry
+P03210,2023/07/02,lapse
+P00612,01-Nov-2023,lapse
+P01788,"August 01, 2024",lapse
+P00214,"November 01, 2024",REINSTATEMENT
+p02078,01-Apr-2024, lapse 
+P02130,2024-12-02,lapse
+P00465,2024/04/01,lapse
+P03291,2023/05/02,lapse
+P01391,2023/05/02,lapse
+ P00662 ,01-Jun-2024,LAPSE
+P00228,"October 01, 2025", term_expiry 
+P00585,2025-01-01,REINSTATEMENT
+P02034," June 01, 2024 ",death_claim
+P03405,"March 03, 2024",lapse
+P00804,2024/12/02, lapse 
+P03056,2025/03/04,lapse
+P03996,"September 01, 2025",lapse
+P03210,2023/08/01,reinstatement
+P02516,"June 01, 2025",lapse
+p00387,2025-06-01,lapse
+P02875,01-Jun-2025,lapse
+p00226,"February 01, 2023",lapse
+P01928,"March 01, 2025",reinstatement
+P01299,03-Mar-2024,lapse
+P01613,"April 01, 2024",lapse
+P02384,"August 01, 2024",lapse
+P01737,2024/04/01,lapse
+P02415,2025/04/01,maturity
+P02967,2024-08-01, LAPSE 
+P03846,2025-07-01,MATURITY
+P01657,2023-09-01,lapse
+P01353,"May 01, 2024",REINSTATEMENT
+P01302,"March 01, 2023",CANCELLATION
+P01903,2023-05-01,reinstatement
+P02301,2025/05/02,LAPSE
+P02166,01-Apr-2025,cancellation
+P03545, 2024-02-01 ,lapse
+P03010,2024-01-01,lapse
+P02597, 2023-06-01 ,lapse
+P03882,2023/07/02,lapse
+P00237,2024-08-01,lapse
+P02629,2024-12-02,lapse
+P03142,2023/11/01,LAPSE
+P00672,"February 01, 2025",reinstatement
+P03756,01-Apr-2024,lapse
+P02071,02-Oct-2025,lapse
+p01520,"March 04, 2023",lapse
+P02002,01-Nov-2024,lapse
+p03566,2023/11/01,LAPSE
+P02662,"October 02, 2023",lapse
+P00063,2024-11-01,lapse
+P02406,2025/05/01,maturity
+P01468,"July 02, 2024",lapse
+P03226,"May 02, 2025",lapse
+P02763,2024-07-02,lapse
+P00178,01-Jan-2025, term_expiry 
+P02894,"October 02, 2025",lapse
+P03497,"December 01, 2024",reinstatement
+P03517,2025-11-01,lapse
+p00470,01-Jul-2023,reinstatement
+P03265,2025-07-02,lapse
+P01176,"August 01, 2023",reinstatement
+P00718,02-May-2024,LAPSE
+P01852,01-Aug-2025,lapse
+P00776,2024/01/01,lapse
+P03804,01-Sep-2023,lapse
+p03419,"February 01, 2025",lapse
+P03109,"May 02, 2024",lapse
+P01038,04-Mar-2023,lapse
+P00991,2023-07-02, lapse 
+P00751,01-Oct-2024,reinstatement
+ P03166 ,02-May-2025,lapse
+P01134,2023-12-02,LAPSE
+P03728,01-Nov-2025, lapse 
+P02765,2025/08/01,term_expiry
+P00303,2025/09/01,reinstatement
+P02482,01-Dec-2025,reinstatement
+P03641,2024/04/01,LAPSE
+P01928,"February 01, 2025",LAPSE
+P02571,"January 01, 2025",lapse
+P03189,2023/11/01,lapse
+p02874,2023/11/01,lapse
+P02946,2024/05/02,lapse
+P03076,2025-05-01,reinstatement
+P02370,2025-03-01,reinstatement
+P00652,"April 01, 2024",reinstatement
+P02265,01-Jul-2023,surrender
+P00252,2024-02-01,reinstatement
+P03936,2024-07-01,reinstatement
+P00816,"March 04, 2023",lapse
+P00890,2023-04-01,lapse
+P02477,2023-07-01,reinstatement
+P02601,"February 01, 2024",lapse
+P02300, 2023-02-01 ,lapse
+P00235,2023/08/01,lapse
+P03447,2025/11/01,TERM_EXPIRY
+P00626,2024-09-01,lapse
+P03050,01-Dec-2023,reinstatement
+P02375,"July 02, 2025",lapse
+P02083,02-Dec-2023,lapse
+P03126,"December 02, 2024",lapse
+P02039,01-Feb-2023,lapse
+P00411, 2025-09-01 ,surrender
+P02779,"October 02, 2023",lapse
+P01941,01-Jan-2025,maturity
+P00859,2023-04-01,lapse
+P02263, 2023/11/01 ,death_claim
+P02748,2025/01/01,MATURITY
+P01116,2025/12/02,lapse
+P02316, 02-Jul-2023 ,lapse
+P00561,"August 01, 2023", surrender 
+P00068,01-Jun-2024,lapse
+P03368,01-Oct-2024,reinstatement
+P03883,"March 03, 2024",lapse
+P02630,2024/04/01,lapse
+P02052,2025-12-01,maturity
+p03857,"November 01, 2025",lapse
+P03474,2024-09-01,lapse
+P03888,01-Mar-2023,REINSTATEMENT
+P00386,01-Apr-2024,reinstatement
+P03257,2023/02/01,surrender
+P02293,01-Jun-2024,lapse
+P03268,2023-03-04,lapse
+P01321,2023-03-04,lapse
+P00979,2023-09-01,LAPSE
+P00860,"October 02, 2025",lapse
+P00097,02-May-2025,lapse
+P01990,"January 01, 2024",lapse
+P02180,01-Apr-2024,lapse
+P03497,2024-11-01,lapse
+P03882,2023/08/01,reinstatement
+P01496,2024-01-01,lapse
+P00131,"March 04, 2023",lapse
+P01474,2023-05-01,reinstatement
+P00508,2024-03-03,lapse
+P02669,2023-08-01,lapse
+P02469,"June 01, 2025", lapse 
+P00047,"September 01, 2023",REINSTATEMENT
+P03623,01-Jun-2025,reinstatement
+p01530,02-Dec-2024,lapse
+P01153, 2025-02-01 ,TERM_EXPIRY
+P03994,"May 01, 2024",reinstatement
+P02879,2023-08-01,lapse
+P00126,2024-04-01, lapse 
+P02764,2025-03-04,lapse
+P03964,2025/12/01,term expiry
+P03514,2025/05/02,lapse
+P01577,2025-03-04,lapse
+P02803,01-Jun-2024,lapse
+P00510,01-Nov-2023,LAPSE
+p03015,"October 02, 2024",lapse
+P00708,2023/06/01,lapse
+P01667,2025-09-01,lapse
+p03210,2024/10/01,death claim
+P01192,2023-03-01,reinstatement
+P02518,"May 02, 2023",lapse
+P02764,2025/06/01,lapse
+P02377,2025-11-01,term_expiry
+P02997,2025/04/01,LAPSE
+P01922,"June 01, 2025",surrender
+P00751,01-Sep-2024,LAPSE
+P01729,"April 01, 2024",lapse
+p03693, 2025-05-01 ,term_expiry
+P00198,"October 01, 2025",term_expiry
+P02581,2023-02-01,lapse
+P03907,01-Oct-2025,cancellation
+P00440,04-Mar-2023,lapse
+P01974,2024-11-01,lapse
+P00217,2025/04/01,term expiry
+P02233,02-Jul-2023,lapse
+p03791,01-Sep-2024,reinstatement
+P01513,01-Jan-2025,cancellation
+P00445,"October 02, 2023",lapse
+P02201,2023-11-01,LAPSE
+p02897,2023/06/01,lapse
+ P02824 ,2024-04-01,lapse
+P00538,2025/06/01,LAPSE
+P01920,02-Jul-2025,lapse
+P00222,2025-03-01,term_expiry
+P03072,01-Nov-2025,reinstatement
+P01098,01-Nov-2025,lapse
+P00791,"April 01, 2024",lapse
+P01974,01-Jun-2023,reinstatement
+P02520,2024-10-01,death_claim
+P02497,01-May-2023,surrender
+P00160,2023-11-01,lapse
+P03490,2023/05/02,lapse
+P00029,2023/03/04,lapse
+P01180,2025-09-01,lapse
+P03936,01-Jun-2024,lapse
+P01864,2024-11-01,lapse
+P03042,01-Sep-2023,lapse
+P03127,01-Jun-2023,reinstatement
+P03727,"June 01, 2024",death_claim
+P03239,2023-06-01,lapse
+P00557,2023-10-02,lapse
+P02721,2025-06-01,lapse
+P03191,"February 01, 2023",surrender
+P03898,01-Apr-2024,LAPSE
+P01876,"May 02, 2024",lapse
+P02526,2023/04/01,reinstatement
+P01640,2023-06-01,reinstatement
+P00579,"August 01, 2025",lapse
+P00492,2025/01/01,lapse
+p02524,02-May-2024,lapse
+P00590,2025-08-01,lapse
+P02197,"September 01, 2025",cancellation
+P01202,02-May-2023,lapse
+P02567,2023/02/01,lapse
+P02905,01-Mar-2024,death_claim
+P02446,2023/04/01,lapse
+P03611,"November 01, 2025",death_claim
+P01147, 2023-06-01 ,lapse
+P00576,2023-03-01,reinstatement
+p00514,01-Aug-2024,lapse
+P00805,01-Aug-2023,lapse
+P02429,2025/02/01,term_expiry
+P00381,2023-10-02,LAPSE
+P03333,"March 01, 2024",cancellation
+P01268,2025/09/01,lapse
+P03859,2024-10-02,lapse
+P00450,2025/06/01,lapse
+P01129, 01-Jan-2024 ,lapse
+P02238,2025/06/01,lapse
+P02316, 02-Jul-2023 ,lapse
+P03175,2023/07/02,LAPSE
+P02442,01-Feb-2023,lapse
+P00356," November 01, 2023 ",lapse
+P02164,"March 01, 2023",reinstatement
+P03121,"May 02, 2023",lapse
+ P03618 ,2024-01-01,death_claim
+P03208,"March 01, 2025",reinstatement
+P01227,"April 01, 2024",lapse
+p03294,2024/04/01,lapse
+P01097,"May 02, 2025",lapse
+P01712,2023/05/02,lapse
+P02031,2024/04/01,lapse
+P00078,2025/10/01,death_claim
+P03470,01-Jan-2024,death_claim
+P02986,2024/02/01,REINSTATEMENT
+P03483,2025-10-02,lapse
+P03513,2023/12/02,lapse
+p00741,"January 01, 2025",term_expiry
+P01859,2024/11/01,lapse
+P03318,01-Jul-2025,reinstatement
+P02911,01-Nov-2024,lapse
+P00018,"July 02, 2025",lapse
+P02474,2024-05-02,lapse
+P03116,2023-08-01,lapse
+p02180,2024/05/01,reinstatement
+P00561,"August 01, 2023", surrender 
+P00590,01-Jul-2024,reinstatement
+P01482,01-Apr-2024,lapse
+P02683,2023-05-02,LAPSE
+P01410,2024-03-01,reinstatement
+P02729,04-Mar-2023,lapse
+P01682,01-Aug-2024,lapse
+ p01678 ,01-Jul-2024,reinstatement
+P03730,01-May-2025,maturity
+p00212,2023/06/01,REINSTATEMENT
+p03771,01-Sep-2023,lapse
+P03667,2024/04/01,surrender
+P02418,01-Jan-2024,lapse
+P01941,"October 02, 2024",lapse
+P03595,2024/09/01,lapse
+ P03730 ,2024-10-01,reinstatement
+ P02471 ,2024-05-02,LAPSE
+P01813,"December 02, 2025",LAPSE
+P03703,01-Oct-2024,reinstatement
+P02185,2024-08-01,REINSTATEMENT
+P02970,"October 01, 2025",maturity
+P00920,2025/12/01,REINSTATEMENT
+P01702,2023/08/01,lapse
+P02242,2023-06-01,lapse
+P00781,"November 01, 2025",LAPSE
+p03652,2025/01/01,death_claim
+P02860,"October 01, 2025",maturity
+P02481,03-Mar-2024,lapse
+P03079,01-Aug-2025,reinstatement
+P02762, 2023/08/01 ,lapse
+P03928,2023-03-04,lapse
+P03527,01-Sep-2025,lapse
+p01348,"September 01, 2024",reinstatement
+P01790,2024-04-01,lapse
+P02235,"January 01, 2024",reinstatement
+P02365,2024-02-01,LAPSE
+P02984,2024/07/02,lapse
+P01932,2024-02-01,lapse
+P00818,2023-09-01,lapse
+P01638,"November 01, 2025",lapse
+ p03194 ,01-Aug-2025,lapse
+P00344,01-Sep-2024,lapse
+P00514,2025-10-01,term_expiry
+P02041,"February 01, 2025",term expiry
+P01350,"November 01, 2024",lapse
+P00400,2025/03/01,term_expiry
+P01494,2024-11-01,lapse
+P00081,"October 02, 2023",lapse
+p01552,2023-09-01,reinstatement
+P03660,2025/01/01,lapse
+P03452,2023-02-01,LAPSE
+P01080,2024-01-01,LAPSE
+P01287,2025-03-01,term_expiry
+P01411,"May 02, 2025", lapse 
+P02672,2023/11/01,surrender
+P03036,"December 01, 2025",MATURITY
+P00122,04-Mar-2023,LAPSE
+P01259,2023/07/02,lapse
+P03941,2025-10-01,term expiry
+P01929,"August 01, 2025",lapse
+P01141,01-Jan-2024,lapse
+P03340,2025/08/01,TERM_EXPIRY
+P02920,2023-11-01,CANCELLATION
+P03730,2024-09-01,LAPSE
+P01053,02-Oct-2024,lapse
+P01374,"December 01, 2025", term_expiry 
+P03288,2024/05/02,lapse
+P00599,2023-02-01,LAPSE
+P01554,2024-08-01,lapse
+P01296,"August 01, 2024",lapse
+P02936,2023-11-01,lapse
+P02390,2024-04-01,lapse
+P00757,2024/11/01,lapse
+P00199,01-Jun-2023,lapse
+P02125,"May 02, 2023",lapse
+P00011,2023-04-01, death_claim 
+P03352,"June 01, 2024",reinstatement
+P00056,02-Jul-2025,lapse
+P00460,02-Dec-2023, lapse 
+P03127,2024/11/01,death_claim
+P03854,"August 01, 2025",term_expiry
+P01951,2024-11-01,death_claim
+p01173,"February 01, 2024",lapse
+P01973,"October 02, 2024",lapse
+P02087,01-Jan-2024,cancellation
+ P03649 ,"February 01, 2025", term_expiry 
+P02747,2025-04-01,LAPSE
+P02986,01-Jul-2023,reinstatement
+P00313,2023/03/04,lapse
+P01126,2024-11-01,lapse
+P02947,2024/12/01,death_claim
+P02155," November 01, 2023 ",reinstatement
+P02997,01-May-2025,REINSTATEMENT
+P01164,02-Dec-2023,lapse
+P01420,2024-11-01,lapse
+P02763,02-May-2025,lapse
+P01296,"September 01, 2024",reinstatement
+P01931,2024/11/01,lapse
+P00299,2025-12-01,term_expiry
+P02851,2025/01/01,lapse
+P00118,01-Dec-2023,reinstatement
+P00936,2024-04-01,lapse
+P00404,"February 01, 2025",lapse
+P03490,2023-06-01,reinstatement
+ p02984 ,2024-08-01,reinstatement
+P02447,01-May-2023,reinstatement
+P00118,2025-09-01,term_expiry
+P03540,"March 04, 2025",lapse
+ P01734 ,2024-07-01,reinstatement
+P01794,2023/07/01,death_claim
+ p02157 ,2023/03/04,lapse
+P03441,01-Sep-2025,maturity
+P03783,"June 01, 2024",death_claim
+P03591,"April 01, 2024",lapse
+p00161,2023-06-01,LAPSE
+P01914,2025-03-04,LAPSE
+P00676,2024/04/01,LAPSE
+P02863,2025-07-02,lapse
+P00932,2023-03-01,death_claim
+P01286,"December 01, 2024",reinstatement
+P00355,01-Feb-2024,lapse
+P03608,2024/07/02,lapse
+P01934,2024-11-01,lapse
+P00147,2025-03-04,lapse
+P00098,2023-09-01,death_claim
+P03681,"June 01, 2023",LAPSE
+P00065,2025/03/04,lapse
+P01832,2025-08-01,lapse
+p03608, 2023-06-01 ,lapse
+P01091,2025-02-01,LAPSE
+P03299,"July 02, 2024",lapse
+P01943,2024-03-03,lapse
+P01309,"April 01, 2024", lapse 
+P03419,"March 01, 2025",reinstatement
+P02230,2025-12-02,lapse
+p03548,2023/04/01,reinstatement
+P00293,2025-02-01,LAPSE
+P01464, 01-Apr-2023 ,lapse
+P00984,2023/05/01,death_claim
+P02971,02-May-2024,lapse
+P00842,01-Nov-2025,lapse
+P00954," August 01, 2024 ",lapse
+p01798,2023-07-02,lapse
+P01309,"January 01, 2025",lapse
+P03097,01-Apr-2023,LAPSE
+P03153,2024/08/01,death_claim
+p01200,"February 01, 2023",cancellation
+P00419,"April 01, 2025",term_expiry
+ P02437 ,"June 01, 2024",lapse
+P00783,2024-12-02,lapse
+P02584,2025/04/01,term_expiry
+P02155,2023-10-02,lapse
+P00968,2024-08-01, lapse 
+P01345,01-Oct-2025,term_expiry
+P00859,01-May-2023,reinstatement
+P01414,2025-05-01,REINSTATEMENT
+p00001,2024-01-01,death_claim
+P01064,"June 01, 2025",maturity
+P02737,2024/01/01,lapse
+P03447,2025-08-01,reinstatement
+P03079,2025/07/02,lapse
+P01206,2024/09/01,lapse
+ P01827 ,2025/08/01,LAPSE
+P02058,2023-05-02,lapse
+P00102,"June 01, 2023",cancellation
+P00886,"January 01, 2024",lapse
+P01248,2025-12-02,lapse
+P03086," November 01, 2025 ",lapse
+P02054,02-Oct-2023,lapse
+P00814,2024-05-01,reinstatement
+P02652,2025-07-01, term_expiry 
+P02803,"November 01, 2023",lapse
+P00924,01-Jul-2024,death_claim
+P02477,2023/06/01,lapse
+p03504,"September 01, 2025",lapse
+P01884,2023/03/04,lapse
+P03027,"August 01, 2023",LAPSE
+P00231,"March 01, 2025",reinstatement
+P03626,"December 01, 2023",reinstatement
+P02865,02-May-2023,lapse
+P01657,"April 01, 2024",lapse
+P00298,2024/02/01,lapse
+P02306,"April 01, 2025",reinstatement
+P03669,03-Mar-2024,lapse
+P01390,2024-06-01,lapse
+p02059,01-May-2025,reinstatement
+P03321,"May 01, 2025",term_expiry
+P02754,2025/05/02, lapse 
+P01130,2023-12-02,lapse
+P03479,2024/02/01,REINSTATEMENT
+P01778,01-Nov-2024,lapse
+P01443,"December 02, 2024",lapse
+P03842,"October 01, 2025",term_expiry
+p02364,2025-08-01,lapse
+P03648,2023/10/01,surrender
+P01055,2024-10-01,reinstatement
+P03041,01-Jun-2023,death_claim
+P03862,"May 01, 2024",reinstatement
+P01860,2024/08/01, lapse 
+P00900,2025-11-01,lapse
+p02500,01-Sep-2025,term_expiry
+P01204,"July 01, 2023",reinstatement
+P00013,01-Feb-2025,term expiry
+P02245,02-Dec-2025,lapse
+P00386,2024/11/01,lapse
+P03826,2023/09/01,DEATH_CLAIM
+P03793,01-Apr-2025,lapse
+P01666,01-Sep-2025,REINSTATEMENT
+P00483,2023/07/01,reinstatement
+P00350,2023-05-02,lapse
+P01374,2025-08-01,lapse
+P03723,2025/12/01,MATURITY
+P01152,04-Mar-2025,lapse
+P02847,2024-12-02,LAPSE
+P01742,2025/08/01,reinstatement
+P01812,2025/03/01,term_expiry
+P02054,2023-11-01,reinstatement
+P00298,01-Mar-2024,reinstatement
+P01573,2023-12-02,lapse
+p02973,2024/03/01,reinstatement
+P00920,2025-11-01,lapse
+P01160,01-Jan-2024,lapse
+P00387,2025-07-01,reinstatement
+P00028,01-Nov-2024,cancellation
+P00378,2023/08/01,death_claim
+P03303,"April 01, 2023",LAPSE
+P03984,01-Aug-2025,lapse
+P02687,2025/07/02,lapse
+P00879,2025-07-01,term expiry
+P03569,"March 03, 2024",lapse
+P03808,02-May-2025,lapse
+P03317,2025/03/04,LAPSE
+P01972,2024-12-02,LAPSE
+P02666,2024-02-01,lapse
+P03155,"March 04, 2025",lapse
+P00101," April 01, 2025 ",lapse
+P00683,2025/03/01,maturity
+P01272,2023/02/01,lapse
+P03655,"September 01, 2025",REINSTATEMENT
+P00115,2023/07/02,lapse
+P01818,"March 04, 2023",lapse
+P02900,01-Aug-2025,lapse
+P03542,2025-06-01,maturity
+P01561,"March 04, 2023",lapse
+P00413,2023/05/01, reinstatement 
+P01296,2023-02-01,LAPSE
+P01473,2025/11/01,term expiry
+P03768,2024/06/01,lapse
+P01169,"March 03, 2024",lapse
+P00798,2023/02/01, lapse 
+ p01023 ,2023/03/01,reinstatement
+P03580,2024/12/01,surrender
+P02231,01-Apr-2024,lapse
+P02458,"January 01, 2024",lapse
+ P00031 ,2024-06-01,lapse
+ P01196 ,2024-04-01,lapse
+P00866,2025-05-02,lapse
+P00163,"February 01, 2023",lapse
+P00558,2025/03/04,lapse
+P01733,2025/06/01, maturity 
+ P01989 ,2024/06/01,lapse
+P02763,"August 01, 2024",reinstatement
+P03479,01-Jan-2024,lapse
+P03354,2025/08/01,term_expiry
+P00742,01-Sep-2024,lapse
+P02535,01-Nov-2023,reinstatement
+P00753,2025-11-01,lapse
+P00750,01-Aug-2024,death_claim
+P03155,"April 01, 2025",reinstatement
+P03595,2024/10/01,reinstatement
+P03849, 2023-04-01 ,REINSTATEMENT
+P03607,01-Sep-2025,LAPSE
+P01133,03-Mar-2024,lapse
+P01895,01-Feb-2024,lapse
+P03853,04-Mar-2023,lapse
+P03597,"October 01, 2023",death_claim
+P02002,2024-04-01,lapse
+P00127, 2024-01-01 ,lapse
+P00988,"November 01, 2023",lapse
+P03515,2025-03-01,reinstatement
+P00688,2024/06/01,lapse
+P02104,2024/03/03,lapse
+P01649,04-Mar-2023,lapse
+P02376,"March 04, 2023",lapse
+P03933,04-Mar-2025,lapse
+P03307,"December 01, 2024",death_claim
+P01600,2024/07/01,death_claim
+P02027,02-Oct-2023,lapse
+P02824,01-May-2024,reinstatement
+P03531,2024-02-01,lapse
+P00622,01-Jun-2023,LAPSE
+P03816,01-Jan-2024,LAPSE
+P03117,02-May-2024,LAPSE
+P03957,2024/09/01,lapse
+P02720,2025-03-04,LAPSE
+P02176,2025/05/02,lapse
+P03368,"September 01, 2024",lapse
+P03319,2023-04-01,LAPSE
+p03029,2023-10-02,lapse
+P01480,2025/03/01,reinstatement
+P01711,2025-09-01,lapse
+p03572,2023-12-02,lapse
+P01645,2025/01/01,TERM_EXPIRY
+P03278,2024/10/02,LAPSE
+P02080,"July 01, 2024",reinstatement
+P02831,2023-07-01,reinstatement
+P03206,2023/08/01,lapse
+P01916,2024-03-03,lapse
+P02667,2024-09-01,lapse
+P00639,"October 02, 2023",lapse
+P00266,2023-04-01,lapse
+P01272,"March 01, 2023",reinstatement
+T001,2024-08-01,reinstatement
+P01104,2023-06-01,lapse
+P02928,2024/07/02,lapse
+P00343,2025-03-04,lapse
+P01077,2024-06-01,lapse
+P01450,"April 01, 2025",term_expiry
+P00442,2024/09/01,lapse
+P02328,01-Jun-2023,lapse
+P00206,"August 01, 2023",lapse
+P03342,01-Jul-2024,reinstatement
+p01724,2023/07/02,lapse
+P02888,01-Apr-2023,lapse
+P02671,2024/08/01,lapse
+P02730,"February 01, 2023",lapse
+P02227,2025-10-01,reinstatement
+P01744,2023/03/01,reinstatement
+p00378,2023-05-02,lapse
+P02121,01-Feb-2025,lapse
+ P00681 ,"September 01, 2025",LAPSE
+P01401,"March 01, 2023",SURRENDER
+P00559,2025-09-01,lapse
+P00033,2023-04-01, CANCELLATION 
+P00462,01-Aug-2025, cancellation 
+P00605,01-Nov-2023,lapse
+p01361,2023-06-01,LAPSE
+p00220,2025/01/01,lapse
+P01208,2024/04/01,lapse
+P01224,2025-01-01,maturity
+P00709,"September 01, 2023", lapse 
+P02732,01-Feb-2023,lapse
+P03115,"April 01, 2024",lapse
+P02352,"July 02, 2023",lapse
+P02919,01-Mar-2024,cancellation
+P00105,"May 02, 2024",lapse
+P02038,2025-08-01,lapse
+P00330,01-May-2024,death_claim
+P03415,04-Mar-2023,LAPSE
+P02076,2024/12/01,reinstatement
+P03372,2025-04-01,LAPSE
+P00708,2023-07-01,reinstatement
+p02831,2023/11/01,lapse
+P01270,02-Jul-2023,lapse
+P02555,2023-03-04,LAPSE
+P00191,"September 01, 2024",death_claim
+P02957, 01-Mar-2023 ,death claim
+P00795, 2025-07-02 ,lapse
+P02508,2024-02-01,cancellation
+P00481,2025/01/01,lapse
+P00233,"June 01, 2025",reinstatement
+p01505,01-May-2024,REINSTATEMENT
+p03054,2025/03/01,term_expiry
+P01188,2025-06-01,LAPSE
+P01268,"October 01, 2025", reinstatement 
+P00151, 02-May-2024 ,lapse
+P03142,2025/04/01,term_expiry
+P02695,2023-12-01,reinstatement
+P00666,2023/06/01,lapse
+P03843,"July 02, 2024",lapse
+P01242,2025-04-01,term_expiry
+P03625,2023-12-02,lapse
+P01441,2025-04-01,lapse
+P03857,02-May-2023,lapse
+P01592,2025/04/01,reinstatement
+P00194,2025-08-01,LAPSE
+p01391,"October 02, 2023",lapse
+p02241,2025/09/01,term_expiry
+P03671,"February 01, 2025",LAPSE
+P01931,"December 01, 2024", reinstatement 
+p00361,"September 01, 2024",lapse
+p03594,2025-03-04,lapse
+P02133,01-Sep-2025,reinstatement
+p01059,2024/07/02,LAPSE
+P02317,"October 02, 2025",lapse
+p01722,2025/06/01,reinstatement
+P01654,02-May-2023,lapse
+P02051,2023/03/04,lapse
+P01497, 2025-02-01 ,lapse
+P00431,2024/09/01,lapse
+P02067,"February 01, 2024",lapse
+P00097,"June 01, 2025",reinstatement
+P00470,01-Jun-2023,lapse
+P01218,2024-07-02,lapse
+P01486,"January 01, 2025",lapse
+P02663,"June 01, 2023",lapse
+ P01073 ,2024-05-01,reinstatement
+P03777,2024/02/01, lapse 
+P03972,2023/04/01,lapse
+P01243,2025/01/01,lapse
+P01192,2023/02/01,lapse
+P02378,01-Feb-2025,lapse
+P03138,2025/01/01,lapse
+p03862,2024-04-01,lapse
+P02366,2025/05/02,LAPSE
+P01992,"May 01, 2025",maturity
+P01532,01-Feb-2023,lapse
+P00179,2024-10-02,lapse
+P03522,2023-08-01,LAPSE
+P02958,2023-09-01,reinstatement
+P01722,2025-05-02,lapse
+P01426,2023-12-02,LAPSE
+P00716,01-Oct-2025,term_expiry
+P01319,01-Sep-2025,lapse
+P02754,2023-12-01,reinstatement
+P01752,04-Mar-2023,lapse
+P00807,"December 01, 2025",surrender
+P00924,"July 02, 2023",lapse
+P01659,"August 01, 2024",lapse
+P03157,2024/08/01, cancellation 
+p00902,2023-02-01,lapse
+P00200,2025-12-01, maturity 
+P03361,2025/11/01,reinstatement
+P00485,2025/03/04,lapse
+P01985,2024/01/01,lapse
+P01627,2025-05-02,lapse
+P01594,2025/05/01,reinstatement
+P01574,"March 04, 2023",lapse
+P03990,01-Jun-2023,lapse
+P00535,"July 02, 2025",lapse
+ P02234 ,"August 01, 2023",lapse
+P03579,2025/07/01,term_expiry
+P02289, 02-Jul-2024 ,lapse
+P02905,2023-11-01,lapse
+P01050,2025/08/01,maturity
+P02923,2024/06/01,surrender
+P00503,"March 04, 2023",lapse
+P03686,2025/07/01,term_expiry
+P01384,2025/06/01,lapse
+P03455,2025/11/01,lapse
+P03623,2025/05/02,lapse
+P02848,2025-06-01,term_expiry
+P03665,2023-10-02,lapse
+P01893,01-Jul-2025,term_expiry
+P03270,01-Apr-2024,LAPSE
+P03782,01-Jul-2025,maturity
+P00977,2025-06-01,reinstatement
+p00034,2025/06/01,lapse
+P02135,2023/07/02,lapse
+P01577,01-Apr-2025,reinstatement
+P01053,2025-11-01,LAPSE
+P01644,2024-08-01,lapse
+p03233,2024/03/01,death_claim
+P02637,2023/03/01,reinstatement
+P03196,01-May-2024,DEATH_CLAIM
+P03548,2023/03/04,LAPSE
+p01909,01-Jan-2024,LAPSE
+p02284,"April 01, 2023",LAPSE
+ P01508 ,2025/01/01,term_expiry
+P02941,2025-03-01,DEATH_CLAIM
+P03487,2025/09/01,surrender
+P03791,2024-08-01,lapse
+P02668,2024-08-01,lapse
+P03397,01-Dec-2025,reinstatement
+P03583,2025/10/01,death_claim
+P02509,2025/09/01,lapse
+P00071,2025/08/01,lapse
+P02227,01-Sep-2025,lapse
+P03261,2024-06-01,reinstatement
+P00115,2023/08/01,reinstatement
+P02556,2024-08-01,death_claim
+P03089,01-Apr-2024,lapse
+P01864,2023/08/01,LAPSE
+P00297,2023/10/01,reinstatement
+P02650,"July 01, 2025",TERM_EXPIRY
+P00545,02-May-2024,lapse
+P00724,"March 01, 2025",maturity
+P01861,"January 01, 2024",lapse
+P00175,2025/05/02,lapse
+p00378,2023-06-01,reinstatement
+P00250,"September 01, 2023",death_claim
+P01776,"March 01, 2024",reinstatement
+p02702,2024-05-02,lapse
+P03830,01-Feb-2024,lapse
+P03294,01-May-2024,reinstatement
+P01796,01-Feb-2024,lapse
+P02367,"April 01, 2024",reinstatement
+P00123,2024/12/02,lapse
+P02712,2023-09-01,cancellation
+P00258,"March 01, 2023",REINSTATEMENT
+P03908,2023-07-02,lapse
+P00483,"April 01, 2024",lapse
+P03288,2024-06-01,reinstatement
+P00074,01-Aug-2024,LAPSE
+P03703,2024/09/01,lapse
+P02666,2023-08-01,lapse
+P03515,"February 01, 2025",lapse
+ P02444 ,2023/10/02,lapse
+P01083,01-Jun-2024, lapse 
+P03994,2024/04/01,lapse
+P01649,2023/04/01,reinstatement
+P03910,2023/05/01,death_claim
+P02670,2024/03/03,lapse
+P01964,"October 01, 2023",reinstatement
+P03387,2024/06/01,LAPSE
+P00604,2025/01/01,term_expiry
+p03007,01-Apr-2023,surrender
+P00386,2024-03-03,LAPSE
+P02831,01-Jun-2023,lapse
+P02117,01-Jun-2023,lapse
+P01155,2025/09/01,DEATH_CLAIM
+P02405,2024/07/01,cancellation
+P01398," May 02, 2024 ",LAPSE
+P03701,"December 02, 2024",lapse
+P00294,"July 01, 2025",reinstatement
+P00858,2025/10/01,term_expiry
+P02447,2025-09-01,term_expiry
+p02235,"December 02, 2023",lapse
+P02499,"September 01, 2025",DEATH_CLAIM
+P00335,01-Sep-2023,lapse
+P00990,2023-12-02,lapse
+P00928,2025-11-01,lapse
+P03882,2025/04/01,lapse
+P00628,01-Feb-2024,LAPSE
+P03103,2023-02-01,lapse
+P00633,01-Apr-2025,lapse
+P03491,"June 01, 2025",cancellation
+P01210,03-Mar-2024,LAPSE
+P02149,2025/12/02,lapse
+P00553,01-Jan-2025,lapse
+P01657,2023-10-01,reinstatement
+P02721,"July 01, 2025",reinstatement
+P01425,2025/08/01,lapse
+P02931,2024/02/01,surrender
+P01059,"August 01, 2024",reinstatement
+P00637,"December 02, 2023",lapse
+P03453,"July 01, 2025",term expiry
+P01441,2025/05/01,reinstatement
+P02330,2023-09-01,lapse
+P03754,"May 02, 2025",lapse
+p02406,2023-12-01,reinstatement
+P00894,2025/07/01,term expiry
+P03691,"August 01, 2023",reinstatement
+P00024,2024-01-01,lapse
+P00032,2024/03/03,lapse
+P00782, 2024-08-01 ,DEATH_CLAIM
+p01378,2025/10/01,maturity
+P02089,"May 02, 2025",lapse
+P02374,2023/12/02,lapse
+P01475,2024/09/01, lapse 
+P02764,01-Nov-2024,LAPSE
+P01672,01-Nov-2024,reinstatement
+P00964,2023/02/01,lapse
+P01754,2024/01/01,lapse
+P03314,"November 01, 2025", lapse 
+P03757,2023-05-02,lapse
+P00914,"November 01, 2023",LAPSE
+P00086,02-Jul-2023,lapse
+P02170,01-Jan-2024,DEATH_CLAIM
+P03920,"March 01, 2025",term_expiry
+p00576,2023-02-01, lapse 
+P03318,"June 01, 2025",lapse
+P01076,01-Aug-2024,death_claim
+p02224,01-Feb-2023,lapse
+P00914,01-Dec-2023,reinstatement
+P02704,2025-08-01,term_expiry
+P02769,2025/06/01,lapse
+P03368,2025-05-02,lapse
+P02811,01-Nov-2023,reinstatement
+P00236,01-Jun-2025,term_expiry
+P01144,2025-02-01,MATURITY
+P00805, 01-Jan-2024 ,lapse
+P01010,2025-12-02,lapse
+P00919,2023-05-02, lapse 
+P02682,"August 01, 2023",lapse
+P01711,2023/05/02,LAPSE
+P02152,2024/01/01,lapse
+P02651,"June 01, 2024",reinstatement
+P03316,"November 01, 2025",maturity
+ P01792 ,02-Jul-2025,lapse
+ P02523 ,"September 01, 2023",lapse
+P00931,2025/10/01,term expiry
+P01465,2025-08-01,lapse
+P01487,2025/10/01,reinstatement
+P03220,2023/06/01,cancellation
+P01182,2024-06-01,death_claim
+p01924,01-Oct-2024,cancellation
+P00413,"April 01, 2023",LAPSE
+P03805,2024/03/03,lapse
+P02332,2025-02-01,death_claim
+p00053,"July 02, 2023",lapse
+P00989,2024-03-03,lapse
+ P03807 ,2025-06-01,maturity
+P01062,2024/01/01,lapse
+P00826,02-Oct-2024,LAPSE
+P01604,2025/12/01,TERM_EXPIRY
+P02036,2025-02-01,LAPSE
+P01479,01-Feb-2025,lapse
+P02446,01-May-2023,reinstatement
+P03910,2023/05/01,death_claim
+P02635,2023/10/02,lapse
+P03327,02-Oct-2023,LAPSE
+P02883,02-Oct-2025,lapse
+ P01315 ,"July 02, 2023",lapse
+P00503,2024-04-01,lapse
+P00621,02-May-2024,lapse
+P00672,2025/01/01,lapse
+P02624,2023/07/02,lapse
+P00663,2025-12-02,lapse
+p02908,2025-01-01,lapse
+P03359,04-Mar-2025,lapse
+P01156,01-Apr-2024,LAPSE
+P01607,2023-12-02,lapse
+P02764,01-Apr-2025,reinstatement
+P01721,"April 01, 2024",lapse
+P03160,01-Oct-2023,reinstatement
+P02639,01-Jun-2023,LAPSE
+p01184,"June 01, 2023",LAPSE
+P01239,"April 01, 2023",lapse
+P00614,2023/10/02,lapse
+P01621,02-Dec-2024,lapse
+P03269," December 02, 2023 ",LAPSE
+ P00940 ,2025/03/04,lapse
+P03767,"February 01, 2023",death_claim
+P00970,02-Dec-2024,LAPSE
+p02834,"May 02, 2025",lapse
+P03616,2025-02-01, LAPSE 
+ P02844 ,2023-04-01,lapse
+P00324,2023/08/01,lapse
+P01371, 2023/11/01 ,lapse
+P01168,2025-03-01,reinstatement
+P01768,2024/05/01,reinstatement
+ P02964 ,"December 01, 2023",surrender
+P01049,2025/05/01,term_expiry
+P01176,"October 02, 2025",lapse
+P02610,2023/10/02,lapse
+P00243,"April 01, 2023",lapse
+P02888,01-May-2023,reinstatement
+P01507,01-Oct-2025,death claim
+ P03830 ,"February 01, 2025",maturity
+P01482,"May 01, 2024",reinstatement
+P03761,01-May-2025,term_expiry
+P01196,01-May-2024,REINSTATEMENT
+P00049,"February 01, 2023",lapse
+P00818,01-Feb-2024,lapse
+P00237,01-Sep-2024,reinstatement
+P01634,"December 02, 2023",lapse
+P00775,2024-12-02,lapse
+p01759,02-Oct-2023, lapse 
+P00945,01-Nov-2025,lapse
+P00253,2025-03-01,maturity
+P01394,01-Jun-2024,lapse
+P01645,01-Nov-2023,lapse
+P02754,"November 01, 2023",lapse
+P03628,2023-03-04,lapse
+ P03978 ,03-Mar-2024,lapse
+P02271,2025/11/01,cancellation
+p02220,01-Mar-2025,reinstatement
+P02345,2024/06/01,lapse
+P02042,2025-04-01,LAPSE
+P00315,01-Dec-2025,maturity
+P00187,04-Mar-2025,lapse
+P02666,2024/03/01, reinstatement 
+P02764,2024/12/01,reinstatement
+P00926,2025-02-01,TERM_EXPIRY
+P01601,2023/05/02,LAPSE
+P02958,2023/08/01,LAPSE
+P01135,2025/11/01,term_expiry
+P00927,01-Nov-2025,maturity
+P01971,2025/02/01,term_expiry
+p03642,2025/04/01,lapse
+P00432,2025-06-01,term expiry
+P00919,2023/06/01,reinstatement
+P01785,"October 02, 2023",lapse
+P00511,04-Mar-2023,lapse
+P00133,2024/06/01,lapse
+P01025,2023-10-02,lapse
+P02588,"August 01, 2025",SURRENDER
+P00641, 02-Dec-2023 ,lapse
+P00564,"June 01, 2025",reinstatement
+P03104,2025-11-01,lapse
+P02311,2025-03-04,lapse
+P03279,2024/12/01,reinstatement
+P00452,2023/12/01,reinstatement
+P01886,2025-04-01,lapse
+P03173,01-May-2023,death_claim
+P01380,2023/02/01,lapse
+ p03510 ,"August 01, 2023",reinstatement
+p01631,"October 01, 2024",reinstatement
+P00608,"October 02, 2025",lapse
+P03560,"November 01, 2024",lapse
+p02896,2023-10-02,lapse
+P02905,2023/12/01,reinstatement
+p00153,2025/06/01,lapse
+p03868,01-Jun-2023,lapse
+P00881,2024-12-01,reinstatement
+P01761,2023/09/01, reinstatement 
+P01774,2025/07/01,term_expiry
+P03468,2024-07-02,LAPSE
+P02376,2024-08-01,lapse
+P01802,2023/09/01,lapse
+p03721,01-Mar-2025,REINSTATEMENT
+P02766,2024/06/01,lapse
+P02647,2024-09-01,LAPSE
+P02717,2023-08-01,lapse
+P01185,"June 01, 2023",reinstatement
+P00819,02-Jul-2025,lapse
+P02797,"September 01, 2025",lapse
+P00650,2025-05-02,lapse
+P03913,2023-10-02,lapse
+ P03998 ,"April 01, 2024",lapse
+P02306,2025/03/04,lapse
+P03709,01-Nov-2025,reinstatement
+p03435,"December 01, 2023",reinstatement
+P00861,01-Jan-2025,lapse
+ P02729 ," August 01, 2023 ",lapse
+p01735,"December 02, 2023",lapse
+ P02054 ,2024-03-03,lapse
+P01470,2024-05-01,reinstatement
+p00483,2023/06/01,LAPSE
+P01012,2023/06/01,lapse
+P03796,2025/06/01,lapse
+ P02054 ,2024-03-03,lapse
+P01327,2023/12/01,REINSTATEMENT
+P00088,"November 01, 2023",lapse
+P01061,2023-05-01,reinstatement
+P00565,"October 01, 2023",cancellation
+P00983,2023-03-04,lapse
+P02775,2025/10/01,term expiry
+P02785,01-Oct-2025,MATURITY
+P03759,"November 01, 2025",term_expiry
+p02739,2024/05/01, reinstatement 
+P01644,2024-09-01,REINSTATEMENT
+P00768,2025/02/01,term expiry
+P03314,2023-08-01,reinstatement
+P00569,2023-09-01,lapse
+ P03856 ,2025/03/04,lapse
+P00093,"August 01, 2023",lapse
+P00876,"June 01, 2024",LAPSE
+P03215,2025/01/01,lapse
+P00303,2023/07/02,lapse
+p00482,2025/04/01,lapse
+P03455,01-Dec-2025,REINSTATEMENT
+P01129,2024-02-01,reinstatement
+P01768,01-Apr-2024,lapse
+P02554,2023-02-01,lapse
+P00918,"December 02, 2023",lapse
+P00311,2024-11-01,surrender
+P01624,2025/07/02,lapse
+P03740,01-Jan-2024,lapse
+P03945,2025-05-02,lapse
+P00581,2023/10/02,lapse
+P00731,"October 02, 2024",lapse
+ P02164 ,2025/02/01,reinstatement
+P01734,2024-06-01,lapse
+P00884,"May 01, 2025", term_expiry 
+P01961,02-Jul-2025,lapse
+P00442,2024/10/01,reinstatement
+P01166,"May 02, 2023",lapse
+ T001 ,2024-07-02,lapse
+P00320,2023/02/01, lapse 
+P00404,"March 01, 2025",reinstatement
+P01837,2025/02/01,term expiry
+P00540,2024-07-02,lapse
+P01891,2023/09/01,reinstatement
+P01992,"May 01, 2025",maturity
+P02270,2024-11-01,death_claim
+P02535,02-Oct-2023, lapse 
+P03169,2024/07/02,lapse
+P01073,"April 01, 2024",lapse
+P01236,04-Mar-2023,lapse
+P01061,01-Apr-2023,LAPSE
+P00234,2024-01-01,lapse
+P03274,2025/06/01,maturity
+P01917,2024-12-02,lapse
+P03615,01-Oct-2023,death_claim
+P02833,01-Feb-2023,lapse
+P03089,2024-05-01,reinstatement
+P00166,2025/11/01,lapse
+P00022,01-Nov-2023,death_claim
+P00332,01-Mar-2025,cancellation
+P01903,01-Mar-2025,reinstatement
+P01128,2024/05/02,LAPSE
+P03296,2024-04-01,lapse
+p03905," September 01, 2023 ",reinstatement
+P00991,01-Aug-2023,reinstatement
+p00125,01-Apr-2025,lapse
+P02028,2025/09/01,lapse
+P00173, 2024-12-02 ,LAPSE
+P02945,2023-04-01,lapse
+P00752,2023/02/01,surrender
+P00868,01-Jan-2024, cancellation 
+P00593,"December 01, 2025",term_expiry
+P01169,01-Dec-2023,reinstatement
+P02927,2025/01/01,death_claim
+P03870,2023-09-01,lapse
+P01102,02-May-2023,lapse
+P01709,"March 04, 2025",lapse
+P02073,2024/10/02,lapse
+P02172,2025/12/02,lapse
+p00283,01-Aug-2025,reinstatement
+P00423,"June 01, 2023",lapse
+P00462,2024-01-01,lapse
+P01923,2023-11-01,REINSTATEMENT
+P01197,2023-03-04,lapse
+P00339,2023/05/02,lapse
+P03813,2023/12/02,lapse
+P00606,"August 01, 2023",reinstatement
+P03990,2023/07/01,reinstatement
+P00550,2025-08-01,lapse
+P01693,"December 01, 2023",death_claim
+P01864,2023-09-01,REINSTATEMENT
+P01055,01-Sep-2024, lapse 
+P00225,02-Dec-2025,lapse
+P03122,2024-05-02,lapse
+p01470,02-Jul-2024,lapse
+P02096,2023/02/01,surrender
+P02750,"June 01, 2023",lapse
+P02164,2023-02-01,lapse
+P02675,2024-03-03,lapse
+P00912,01-Jan-2024,LAPSE
+ P03066 ,2024-08-01,lapse
+P01565,2024/07/02,lapse
+P03342,2024-06-01,lapse
+P03160,2024-02-01,lapse
+P02510,2023-05-02,lapse
+P02749,2024-02-01,lapse
+P00924,2023/08/01,reinstatement
+P03124,"May 01, 2025",reinstatement
+P00154,04-Mar-2023,lapse
+P01176,2023-07-02,lapse
+ P02610 ,2023/11/01,reinstatement
+P01309,"February 01, 2025",reinstatement
+P03607,01-Oct-2025,reinstatement
+P02613,2024-10-02,lapse
+P02644,2024/10/02,lapse
+P00549,02-Jul-2023,lapse
+P01603,01-Aug-2025,lapse
+P01964, 2023/09/01 ,lapse
+P03586,01-Feb-2023,lapse
+P03279,2025-06-01,death_claim
+P03384,2025-06-01,maturity
+P02236,"March 04, 2023",lapse
+ P03427 ,"April 01, 2024",lapse
+P00883,2023-09-01,lapse
+P01269,"February 01, 2023",lapse
+P01181,2023/02/01,surrender
+ P02322 ,01-Apr-2023,lapse
+P01890,2025/04/01,TERM_EXPIRY
+P03264,"May 01, 2023",SURRENDER
+P01227,"April 01, 2025",lapse
+P01795,2025/09/01,lapse
+P00348,01-Jan-2025,term_expiry
+P03526,02-May-2025,lapse
+ p01477 ,"February 01, 2023",lapse
+P00047,2023/08/01,lapse
+P00876,"June 01, 2024",LAPSE
+P03844,01-Nov-2024,lapse
+P03754,2024/03/01,reinstatement
+P03815,"June 01, 2025",lapse
+P00519,2023-04-01,lapse
+P01818,2023/04/01,reinstatement
+P02535,2024/12/02,lapse
+P00910,01-Feb-2025,term expiry
+P03782,"August 01, 2024",LAPSE
+p03844,2024/12/01, reinstatement 
+P02399,01-Sep-2023,lapse
+P02185,2024-07-02,lapse
+P03511, 01-Sep-2025 ,reinstatement
+P02934,2024-09-01,lapse
+P03352,2024/05/02,lapse
+ P00303 ,2025/08/01,lapse
+ P01296 ,01-Nov-2024,lapse
+P01711,"June 01, 2023",reinstatement
+p02916,2025/11/01,lapse
+P01491,"December 02, 2024",lapse
+P01749,01-Aug-2023,lapse
+P01168,"February 01, 2025",LAPSE
+p03639,"February 01, 2025",death_claim
+P00632,2024/07/02,lapse
+P00607,01-Feb-2024,lapse
+P01735,2024/01/01,reinstatement
+P01998,02-Oct-2023,lapse
+P02764,01-Nov-2024,LAPSE
+P03225,2023-10-01,surrender
+P03112,2024-09-01,lapse
+P00071,2025/09/01,REINSTATEMENT
+P03174,2025-09-01,lapse
+p01130,01-Jan-2024,reinstatement
+P01909,"February 01, 2024",REINSTATEMENT
+P01640,"May 02, 2023",lapse
+p02204,2025-02-01,lapse
+P00818,01-Oct-2023,reinstatement
+P00325,2023-05-02,lapse
+P00026,"June 01, 2023",surrender
+P02805,2024-03-01,death_claim
+P03691,2023-07-02,lapse
+P02365,01-Mar-2024,REINSTATEMENT
+ P03966 ,2025-02-01,lapse
+P02098, 01-Apr-2023 ,lapse
+P03427,"October 01, 2023",reinstatement
+P00710,2025/06/01,term_expiry
+P02561,2025-05-02,lapse
+P03892,2025/01/01,lapse
+P02713,01-Feb-2024,LAPSE
+P00505,"April 01, 2024",lapse
+ P03962 ,2023/05/02,lapse
+P00339,"August 01, 2024",reinstatement
+P00677,"February 01, 2023",lapse
+P01392,2023/06/01,lapse
+P00337,"December 02, 2024",lapse
+P00227,2023-06-01,lapse
+P00368,01-Feb-2025,reinstatement
+P03638,01-Aug-2023,SURRENDER
+p03701,"January 01, 2025",reinstatement
+P02902,2024/12/01,reinstatement
+P02896, 2023/11/01 ,REINSTATEMENT
+P03805,2024-04-01,reinstatement
+P00257,01-Sep-2024,LAPSE
+P02218,01-Aug-2023,lapse
+P03158,2025/03/01,TERM_EXPIRY
+P01309,01-May-2024,reinstatement
+ p01230 ,2024-09-01, LAPSE 
+P03052,2024/01/01,lapse
+P02235,2024/10/02, lapse 
+P03487,2025/03/04,lapse
+P03355,2025-06-01,cancellation
+P03544,"October 01, 2025",MATURITY
+P03600,2025-07-02,lapse
+P00125,2025-05-01,reinstatement
+P03598,01-Jan-2025,reinstatement
+P02027,01-Nov-2023,reinstatement
+P03966," March 01, 2025 ",reinstatement
+P01572,"February 01, 2025",LAPSE
+P03843,"August 01, 2024",reinstatement
+P02843,2023-03-04,lapse
+P02738,2023/10/02,lapse
+P00630,2025-06-01,lapse
+P00259, 2025/02/01 ,lapse
+P03754,2024-02-01,lapse
+P03971,01-Jul-2023,death_claim
+P03888,"June 01, 2024",lapse
+P01126, 01-Dec-2024 ,reinstatement
+P01456,"September 01, 2023",lapse
+P03032,2025-01-01,lapse
+P01029,"April 01, 2023",lapse
+P01253,01-Apr-2023, lapse 
+ p02293 ,2024/07/01, reinstatement 
+P02104,01-Apr-2024,reinstatement
+p03492,2025-06-01,lapse
+P02312,03-Mar-2024,lapse
+P02799,2024-06-01,death_claim
+P01188, 01-Jul-2025 ,reinstatement
+P02213,01-Jan-2025,term expiry
+ P03144 ,2024/02/01,lapse
+P01723,2024-02-01,LAPSE
+P02343,2025-01-01,surrender
+P01968,02-Jul-2023,lapse
+P03413,"April 01, 2023",REINSTATEMENT
+P00857,01-Feb-2025,lapse
+P01627,2025/06/01,reinstatement
+P00338,2023-03-04,lapse
+P02839,02-Oct-2024,lapse
+P03961,2024-10-02,lapse
+P00108,2024-01-01,lapse
+P01933,2025/11/01,CANCELLATION
+P03423,2024-01-01,SURRENDER
+P02085,"December 02, 2023",lapse
+P00244,2023-09-01,reinstatement
+P03469,"March 04, 2023",lapse
+P01740,2024/07/01,reinstatement
+P02076,01-Nov-2024,lapse
+P01094,"November 01, 2025", reinstatement 
+P02656,2024/10/02,LAPSE
+P01941,"November 01, 2024",REINSTATEMENT
+P00745,01-Apr-2024,lapse
+P02257,2023-11-01,lapse
+P01209,"April 01, 2023",lapse
+P03830,01-Mar-2024,reinstatement
+P00594, 2024/02/01 ,lapse
+P03632,"March 04, 2023",lapse
+P03992,01-Sep-2024,lapse
+P00791,2024-11-01,lapse
+P02138,01-Feb-2024,lapse
+P02171,2025/09/01,lapse
+ P00079 ,"December 02, 2024",lapse
+P00186,01-Nov-2024,lapse
+P01902,01-Jan-2024,lapse
+P03244,2024-07-02,lapse
+P02191,2023-06-01,lapse
+P00465,2024/05/01,reinstatement
+P03353,2023-09-01,LAPSE
+P01053,01-Jun-2023,LAPSE
+P03088,02-Jul-2025,lapse
+P00707,2024/12/02,lapse
+P03406,2025/05/01,death_claim
+P02016,03-Mar-2024,lapse
+p01444,2024/08/01,cancellation
+P00418, 01-Mar-2025 ,term expiry
+P00793,2025-07-02,lapse
+P03361,2025/10/02,lapse
+P03365,2025/10/02,lapse
+P00214,"October 02, 2024",lapse
+P00076,"April 01, 2025",death_claim
+P02221,01-Jun-2023,reinstatement
+P00004,2025/10/01,reinstatement
+P02532, 2023/03/01 ,reinstatement
+P03348,2023-09-01,lapse
+P02809,01-Sep-2025,lapse
+P01405,2023-12-02,LAPSE
+P00493,02-May-2025,lapse
+P01669,2023/09/01,LAPSE
+P03048,2025-06-01,maturity
+P03309,02-Oct-2023,lapse
+P02363, 2025-11-01 ,reinstatement
+P03487,01-Apr-2025,reinstatement
+ P03362 ,02-May-2023,lapse
+P00990,01-Nov-2024,lapse
+p00753,2025-12-01,reinstatement
+P02095,02-May-2024,lapse
+P02192,2023-06-01,lapse
+P03075,"June 01, 2024",lapse
+P02917,"April 01, 2024",lapse
+P02693,2025/12/02,lapse
+P03895,"May 02, 2024",lapse
+ P03235 ,2025-08-01,surrender
+p03413,2023-03-04,lapse
+P01859,2024/12/01,REINSTATEMENT
+P02715,2024/08/01,lapse
+P00187,2024/11/01,lapse
+P02853,2023-03-04,lapse
+P02100,01-Sep-2024,lapse
+ p03229 ,01-Jun-2024,lapse
+P00937,2024/02/01,LAPSE
+P02259,2025-11-01, TERM_EXPIRY 
+ P03721 ,"February 01, 2025",lapse
+P02477,01-Jan-2025,lapse
+ P02021 ,2024/09/01,lapse
+P00462,2024-01-01,lapse
+P03465,2025/12/01,term_expiry
+P02238,01-Jul-2025,reinstatement
+P00175,"June 01, 2025",REINSTATEMENT
+P01103,02-Oct-2024,lapse
+P00230,"February 01, 2024",lapse
+P02266,2024-08-01,lapse
+P00162,2024/07/02,lapse
+P02496,"June 01, 2023",lapse
+P01375,01-May-2025,term_expiry
+P01433,2025-06-01,reinstatement
+P01296,"March 01, 2023",reinstatement
+P02485,01-Jul-2025,surrender
+P01557,"July 01, 2024",reinstatement
+P02381, 2024-09-01 ,cancellation
+P03002,02-Jul-2024,lapse
+P03377,2025-04-01,LAPSE
+P00379,"February 01, 2024",death_claim
+P01610,2025/05/02,lapse
+P01424,2024/09/01,LAPSE
+P03915,01-Nov-2024,lapse
+P03127,02-May-2023,lapse
+P02055,01-Jun-2023,lapse
+p00410,2025/04/01, term_expiry 
+P02627,02-Dec-2024,lapse
+p02109,2025-12-01,cancellation
+P01166,"June 01, 2023",reinstatement
+P03447,01-Feb-2025,reinstatement
+P02482,2025-11-01,lapse
+P03924,01-Nov-2023,LAPSE
+P02059,01-Apr-2025,lapse
+P03969,"November 01, 2025",reinstatement
+P03440,2024-01-01,LAPSE
+P02655,2025-01-01,TERM_EXPIRY
+P03961,02-Jul-2024,lapse
+P00008,2025-05-01,term_expiry
+P01050,2024-02-01,lapse
+P01087,2025/03/04,lapse
+P02625,2025-04-01,lapse
+P01993,"March 03, 2024",lapse
+P02059,"October 02, 2023",lapse
+P01500,2025/03/01,term_expiry
+p01908,2025-01-01,term_expiry
+P02627,2025-01-01,reinstatement
+P03018,2024/02/01,reinstatement
+p00758,2024-01-01,lapse
+P02598,2024/12/02,lapse
+P00757,01-Dec-2024,reinstatement
+P02538, 2025-01-01 ,REINSTATEMENT
+P00721,2023/07/01, reinstatement 
+p00388,02-Jul-2025,lapse
+P03730,2023/10/01,reinstatement
+P03103,2023/03/01,reinstatement
+P02812,2024-11-01,lapse
+P01128, 2024/06/01 ,reinstatement
+P02884,2025/12/01,term_expiry
+p03190,02-May-2023,lapse
+P00148,"March 03, 2024",lapse
+P01677,2023-01-01,SURRENDER
+P02174,"February 01, 2025",LAPSE
+P03103,2023-02-01,lapse
+P00721,"June 01, 2023",lapse
+p03771,2023/10/01,reinstatement
+P01834,"May 02, 2023",lapse
+P03431,01-Aug-2024,reinstatement
+P02845," July 02, 2023 ", lapse 
+P01467,"January 01, 2024",lapse
+P00640,01-Sep-2025,LAPSE
+ p02634 ,01-Aug-2023,lapse
+P03671,"March 01, 2025",reinstatement
+P03782,"September 01, 2024",reinstatement
+ P03692 ,2024-07-02,lapse
+P02591, 2024/05/02 ,LAPSE
+P00192,2025-02-01,term_expiry
+P03160,2024-03-01,reinstatement
+P03829,01-Aug-2025,LAPSE
+P02781, 2023/03/04 ,LAPSE
+P01594,2025-10-01,term_expiry
+P00520,"September 01, 2025",term expiry
+P00555,2023-12-02, lapse 
+P01645,"December 01, 2023",reinstatement
+P01722,"October 01, 2025",term_expiry
+P03746,2023-05-01,death_claim
+P01836,2024-01-01,reinstatement
+P01439,"July 01, 2025",term_expiry
+P00564,2025/05/02, lapse 
+P02221,"May 02, 2023",LAPSE
+P01844,"April 01, 2025",lapse
+P01303,01-Aug-2024,lapse
+P03147,2023-04-01,lapse
+P02367,2024-03-03,LAPSE
+ P02234 ,"August 01, 2023",lapse
+P00606,02-Dec-2023,lapse
+P00745,01-Apr-2024,lapse
+P00333,2025-05-01,surrender
+P01374,2025-09-01,reinstatement
+P02538,2024-12-02,lapse
+P00006,01-Oct-2023,death_claim
+P02572,01-Aug-2025,term_expiry
+P01753,"March 04, 2023",lapse
+P03823,02-Jul-2024,lapse
+P01668,"October 01, 2025",TERM_EXPIRY
+P01357,2023-04-01,lapse
+P03052,2025-01-01,lapse
+P00377,01-Aug-2024,lapse
+P00656,01-Nov-2025,lapse
+P00981,2025/02/01,DEATH_CLAIM
+P03831,"December 01, 2023",death_claim
+P02761, 2025-01-01 ,term_expiry
+P03385,01-Jan-2024,lapse
+P01732,01-Feb-2024,lapse
+P00118,"June 01, 2024",lapse
+P00992,2023/10/02,LAPSE
+P03987,01-Aug-2024,death claim
+P00610,"March 04, 2023",lapse
+P01435,02-Oct-2025,lapse
+P00612, 01-Dec-2023 ,reinstatement
+P02467,"February 01, 2023",lapse
+P00199,"June 01, 2025",lapse
+P03014,"October 02, 2023",lapse
+P03425,01-Nov-2023,lapse
+ P03160 ,2023-09-01,lapse
+P01885,2025/11/01,term_expiry
+P02926,01-Sep-2024,lapse
+P01648, 02-Jul-2025 ,lapse
+P03385,"February 01, 2024",reinstatement
+p03982,01-Jul-2025,term_expiry
+P01784,2025/04/01,lapse
+P02370,"February 01, 2025",lapse
+P00729,"June 01, 2023",lapse
+P00870,2025/01/01,lapse
+P00303,"August 01, 2023",reinstatement
+P00947,"December 02, 2023",lapse
+P02294,2023/02/01,lapse
+P01696,"August 01, 2023",lapse
+P02653,01-Sep-2023,lapse
+P01715,"October 02, 2023",lapse
+P00407,2024/11/01,lapse
+P01355,2025-10-01,term_expiry
+P02283,2024/03/03,lapse
+P00910,01-Feb-2025,term expiry
+P01591,2025-09-01,lapse
+P02831,2023-12-01,reinstatement
+P03447,2025-07-02,lapse
+P02027,2025/01/01,cancellation
+P02757,2024/12/02,lapse
+P02447,01-Apr-2023,LAPSE
+P01013,"June 01, 2023",lapse
+P00523,2023/08/01,lapse
+P00322,01-Jan-2025,lapse
+P03462,2023/08/01,lapse
+P03595, 02-Dec-2025 ,lapse
+P00252,2025-03-04,lapse
+P00269,"December 01, 2025",reinstatement
+P00231,"February 01, 2025",LAPSE
+P01337,2025-03-04,lapse
+P02670,2024/04/01,REINSTATEMENT
+P02311,2025/04/01,REINSTATEMENT
+P03001, 02-Oct-2023 ,lapse
+P02098,2023-05-01,reinstatement
+P02849,2024/05/02,lapse
+P00887,2023/11/01,lapse
+P02162,2025-03-01,term_expiry
+P02002,"July 01, 2023",reinstatement
+P03242,2024-04-01,lapse
+P00404,2025-04-01,LAPSE
+P01742,"July 02, 2025",lapse
+P02925,02-Jul-2023,lapse
+P01460,01-Apr-2023,lapse
+P00595,02-Oct-2024,lapse
+P02426,01-Sep-2023,LAPSE
+P00200, 2025/08/01 ,reinstatement
+P01271,04-Mar-2023,LAPSE
+P03760,2024/05/02,lapse
+P02164,"January 01, 2025",lapse
+P03608,2023/07/01,reinstatement
+P00806,2025/09/01,lapse
+P03260,2023-03-01,reinstatement
+P03100, 02-May-2025 ,lapse
+P01273,2023-06-01,lapse
+P03335,2024-04-01,lapse
+P02902,2024-11-01, LAPSE 
+P02472,02-Oct-2025,lapse
+P01466,2023/09/01,lapse
+P00244,2023/08/01,lapse
+p02295, 2024-06-01 ,lapse
+P01014,"October 01, 2024",death claim
+P01513,01-Jan-2025,cancellation
+P03818,2024-06-01,surrender
+P00334,2025/10/02,lapse
+P01039,2024/04/01,death_claim
+P02384,"June 01, 2023",lapse
+P00325,01-Jun-2023,REINSTATEMENT
+P01647,2025/01/01,term_expiry
+P03712,01-Sep-2023,lapse
+p02534,"November 01, 2024",lapse
+ P01119 ,"November 01, 2024",lapse
+P00233,02-May-2025,lapse
+P00986,2025-04-01,term_expiry
+P01838,2025-11-01,term_expiry
+P01027,2025-02-01,lapse
+P00559,2025-10-01,reinstatement
+P00870, 2024-10-01 ,REINSTATEMENT
+P03960,2023-04-01,lapse
+P01007,"September 01, 2024",reinstatement
+P03655,2025/08/01,lapse
+ P00788 ,2024-12-02,lapse
+P00212,02-May-2023,lapse
+P01136,01-Feb-2025,lapse
+P01480,2025-02-01,lapse
+P00339,2024/07/02,LAPSE
+P00941,2023/08/01,cancellation
+P03446,2025-02-01,maturity
+P03300,"September 01, 2025",lapse
+P03495,2025/09/01,lapse
+P03077,01-Nov-2025,lapse
+P01432,2025/09/01,term_expiry
+P01631,2024-09-01,lapse
+P02915,2023/09/01,lapse
+P01227,2024-05-01,reinstatement
+P03121,"May 02, 2023",lapse
+P00870,2024/09/01,lapse
+P00044,01-Jan-2025,term_expiry
+P03516,"June 01, 2023",death_claim
+P00697,2023/12/02,lapse
+P00252,"January 01, 2024",lapse
+P01437,02-May-2024,lapse
+p02772,2025-09-01,reinstatement
+P02102,2025/08/01,term_expiry
+ P03985 ,01-Sep-2024,death_claim
+P03664,2025-03-01,maturity
+P01810,01-Nov-2023,lapse
+P01410,2024/02/01, lapse 
+P03849,04-Mar-2023,lapse
+P02349,2025-02-01, term_expiry 
+P00297,"September 01, 2023",lapse
+P01616,02-May-2024,LAPSE
+P01253,01-May-2023,REINSTATEMENT
+p01523,2024/03/03,LAPSE
+P03029,"November 01, 2023",REINSTATEMENT
+p00127,01-Feb-2024,REINSTATEMENT
+P03431,02-Jul-2024,lapse
+ P03040 ,2023/08/01,lapse
+P00970,"January 01, 2025",reinstatement
+P02287,2025-03-04,lapse
+P03035,"September 01, 2023",LAPSE
+P03526,2024/04/01,lapse
+P00342,2024/04/01,lapse
+P03381,"September 01, 2023",lapse
+P01105,"January 01, 2025",term_expiry
+P03268,2023-04-01,reinstatement
+P00371,"December 02, 2023",LAPSE
+P01732,"March 01, 2024",reinstatement
+P02461,"August 01, 2024",cancellation
+ P00337 ,"January 01, 2025",reinstatement
+P03498,2025-04-01,lapse
+P00141,02-May-2024,lapse
+P03279,01-Nov-2024,LAPSE
+P02011,2024/11/01,lapse
+P03248,01-Feb-2025,death claim
+P01699,01-Apr-2025,TERM_EXPIRY
+P01799,2025/10/02,lapse
+P03986,"May 02, 2023",lapse
+P02827,2025-04-01,lapse
+P01163,2025-03-04,lapse
+P00018,"August 01, 2025",reinstatement
+ P03339 ,2023/07/01,surrender
+P00539,01-Sep-2025,REINSTATEMENT
+P02194,02-Oct-2023,lapse
+ P03436 ,01-Sep-2023,lapse
+P02125,"June 01, 2023",reinstatement
+P01463,2024-06-01,lapse
+p00424,2025-04-01,lapse
+P01618,2023-07-02,lapse
+P00434,"March 01, 2025",term_expiry
+P01940,2024/07/02,lapse
+P01062,2025-03-04,lapse
+P02049,"May 02, 2025",lapse
+p03885,2023-10-02,lapse
+P01718,"May 01, 2024",reinstatement
+P01792,01-Aug-2025,REINSTATEMENT
+P03410, 2025-06-01 ,maturity
+P00393,01-Jun-2023,lapse
+P03887,"February 01, 2025",surrender
+P01626,"December 01, 2025",term_expiry
+P01836,02-Dec-2023,LAPSE
+P01053,"July 01, 2023",REINSTATEMENT
+P01710,2023-08-01,LAPSE
+P02280,01-Jun-2023, lapse 
+P00732,2023-12-02,LAPSE
+P00464," August 01, 2025 ",maturity
+P00753,2023/12/01,REINSTATEMENT
+P02028,01-Apr-2024,REINSTATEMENT
+P00869,"August 01, 2023",death_claim
+p01034,2023/07/02,lapse
+P01686,2024/06/01,lapse
+P01898,2025-04-01,maturity
+P02550, 01-Jul-2025 ,maturity
+P00447,2024-02-01,lapse
+P00582,2024/10/02,lapse
+P01727,02-Dec-2025,LAPSE
+P03412,2024-01-01,lapse
+P03553,"March 01, 2025",term_expiry
+P03905,2023-08-01,lapse
+P03531,01-Mar-2024,reinstatement
+P01416,2024/06/01,CANCELLATION
+ P02376 ,2024-03-03,lapse
+ P01103 ,2025/07/01,term_expiry
+P01758,2023-03-04,LAPSE
+P02318,2024-12-01,surrender
+P01127,2025/01/01,term_expiry
+p02729,01-Sep-2023,reinstatement
+P03760,2024/06/01,reinstatement
+P00453,2025-06-01,lapse
+P03658,"April 01, 2023", LAPSE 
+P02417,01-Apr-2025,LAPSE
+P02088,"September 01, 2025",term_expiry
+P00458,2023/03/01, reinstatement 
+P01903,2023-04-01,lapse
+P00240,01-Jun-2024,lapse
+P03854,2023-05-02,lapse
+P02074,2025/09/01,maturity
+P03626,2025-10-01,maturity
+P02046,2023-07-02,lapse
+p00142,2024/09/01,death_claim
+P00850,2023/11/01,death_claim
+P01312,2023-08-01,death_claim
+p03855,2025-05-02,lapse
+P02369,"October 02, 2023",LAPSE
+P03909, 2025/12/01 ,REINSTATEMENT
+P02707,01-Feb-2024,reinstatement
+P03439,"March 04, 2023",lapse
+P03345,01-Aug-2024,lapse
+P02758,01-Jan-2023,surrender
+P02419,"August 01, 2023",lapse
+ P00610 ,2023-04-01, reinstatement 
+P03502,2025/03/01,SURRENDER
+P00045,2024/04/01,reinstatement
+P02552,"March 03, 2024",lapse
+P02629,2025-01-01,reinstatement
+P00935,"July 02, 2023",lapse
+P01238,2023/10/02,lapse
+P02199,"April 01, 2025",lapse
+P02803,2023/12/01,reinstatement
+P02002,"June 01, 2023",lapse
+P00923,01-Feb-2025,lapse
+P00417,2023/03/04,lapse
+P00045,2024-03-03,lapse
+P02012,"May 02, 2023",lapse
+p01023,2023/02/01,lapse
+P00154,01-Sep-2023,LAPSE
+P00967,2023/06/01,death_claim
+P03928,2023-04-01,reinstatement
+P00406,2024-12-02,lapse
+P01342,2025/10/02,lapse
+P00118,2024/07/01,reinstatement
+p03413,2023/08/01,lapse
+P01502,2025/02/01,term_expiry
+P02268,"May 02, 2025",lapse
+P03810,01-May-2025,maturity
+P01362,2023/04/01,lapse
+P00283,2025/07/02,lapse
+P01474,01-Apr-2023,lapse
+p00296,01-Nov-2023,lapse
+P01741,2024/07/02,lapse
+ P03137 ,2025-09-01, lapse 
+P03711,2025/12/02,lapse
+P03532,"August 01, 2024",lapse
+P00200,"July 02, 2025",lapse
+P03934,2025-02-01,term_expiry
+P01008,2024-09-01,lapse
+P00416,2024-01-01,lapse
+ P00161 ,2023-07-01, reinstatement 
+P00181,"February 01, 2023",lapse
+P02503,2025/03/01,surrender
+P00214,01-Mar-2023,reinstatement
+P00877,01-Aug-2025,lapse
+P01027,2025-03-01,reinstatement
+P01666,01-Aug-2025,lapse
+P01094,2024-10-02, lapse 
+P00662,2023-06-01,REINSTATEMENT
+P02772,01-Aug-2025,lapse
+P00687,01-Feb-2024,LAPSE
+P01777,01-Apr-2025,lapse
+P01330,"September 01, 2023",lapse
+P02868,2024-11-01,lapse
+P03718,"April 01, 2023",lapse
+ P03806 ,2023-03-04,lapse
+P02363,"October 02, 2025",lapse
+P01171,01-Sep-2024,lapse
+P02269,"July 02, 2024",lapse
+p03050,2023-11-01,lapse
+P03600,2024/12/02,lapse
+P02766,2024/06/01,lapse
+P01775,2024/06/01,lapse
+p01781,"December 02, 2025",lapse
+P03888,2023-02-01,lapse
+P03063,2024/04/01,reinstatement
+P01383,2025-03-04,lapse
+P01414,2025-04-01,lapse
+P01879,"July 02, 2023",lapse
+P00137,"February 01, 2025",maturity
+P01843,2025-10-01,reinstatement
+P00454,01-Sep-2025,lapse
+P00805,2024-02-01,reinstatement
+P02267,2024/11/01,lapse
+P02253,2025/06/01,lapse
+P02051,"April 01, 2023",reinstatement
+P00135,2024-11-01,lapse
+P03414,2024-06-01,lapse
+P03190,2023-06-01,reinstatement
+P02090,"June 01, 2024",lapse
+P03329,01-Nov-2025,death_claim
+P02637,2023-02-01,lapse
+P02379,"August 01, 2023",lapse
+P01000,2023/08/01,lapse
+p03641,2023-04-01,reinstatement
+P00914,02-Oct-2025,lapse
+P03988,"September 01, 2024",lapse
+P00365,2024-06-01,lapse
+p02042,"May 01, 2025",reinstatement
+P02552,"September 01, 2023",LAPSE
+P02617,04-Mar-2025,lapse
+P03005,"July 02, 2023",lapse
+P00709,01-Oct-2023,reinstatement
+P02057,2025-05-01,reinstatement
+P00210,"February 01, 2025",lapse
+P00662,02-May-2023,lapse
+ P01166 ,2024-05-02,lapse
+P01521,01-Sep-2024,lapse
+P03048,2023/04/01, reinstatement 
+P00341,2025-10-01,term_expiry
+P03567,2024/06/01,DEATH_CLAIM
+P01109,2023-01-01,death_claim
+P02811,"October 02, 2023",lapse
+P03427,2023-09-01,lapse
+P03447," January 01, 2025 ",LAPSE
+P00154, 2023-04-01 ,reinstatement
+P01348,2024-08-01,lapse
+P02435,01-Jun-2025,lapse
+P02368,2024/10/01,cancellation
+P00367,01-Jun-2025,surrender
+p02619,2025/02/01,maturity
+P01306, 02-May-2025 ,lapse
+p00435,"April 01, 2023",lapse
+P00150,2023/02/01,lapse
+P02200,2025-08-01,lapse
+P00301,02-Jul-2025,lapse
+P01203,2024-06-01,lapse
+P01465,2024/06/01,reinstatement
+P02321, 01-May-2023 ,surrender
+P02155,01-Aug-2025,surrender
+P03895,2024/06/01,reinstatement
+P03107,2025-07-01,death_claim
+ P01391 ,"June 01, 2023",reinstatement
+P03105,"November 01, 2023",lapse
+P01057,2025-06-01,term_expiry
+P03080,"July 01, 2023",surrender
+P03949,01-Jan-2024,lapse
+P02725,"February 01, 2023",lapse
+P00835,"June 01, 2024",lapse
+P03969,02-Oct-2025,lapse
+P00462,"February 01, 2024",reinstatement
+P00769,01-Nov-2023,lapse
+P03199, 02-May-2023 ,lapse
+P00695,"May 01, 2023",death_claim
+P01255,2025-11-01,term_expiry
+P01541,01-Sep-2023,lapse
+P01108,2024-09-01,lapse
+P00654,"November 01, 2023", lapse 
+P03055,2025/12/02,lapse
+P01718,01-Oct-2024,death_claim
+P01264,01-Apr-2025,TERM_EXPIRY
+P00254,2025-12-02,lapse
+P03593,"May 02, 2024",lapse
+P01470,"April 01, 2024",lapse
+P01007,2024-08-01,LAPSE
+P03876,01-Jun-2025,lapse
+P03914,01-Jun-2025,term_expiry
+P01929,"September 01, 2025",reinstatement
+P02935,2025-02-01,term_expiry
+p03961,2024/08/01,reinstatement
+P00500,2025/11/01, cancellation 
+P01382,01-Apr-2023,lapse
+P02532,2023-02-01,lapse
+P01003,"August 01, 2024", lapse 
+p02220,01-Feb-2025,LAPSE
+ P00759 ,01-Feb-2023,lapse
+P03208,"February 01, 2025",lapse
+P02815,2024-01-01,reinstatement
+P00881,2024/11/01,LAPSE
+P03052,2024-02-01,reinstatement
+P01910,2025-05-01,maturity
+P01623,"November 01, 2025", lapse 
+P01407,"May 01, 2023",surrender
+P03168,"December 02, 2025",lapse
+P01130,2023-12-02,lapse
+P03148,01-Apr-2024,lapse
+P00814,2024-04-01,lapse
+P03378,"March 04, 2023",lapse
+P02208,"September 01, 2025",reinstatement
+p03598,2024-12-02,lapse
+P00518,2023-07-02,LAPSE
+P00287,"December 01, 2024", death_claim 
+P01381,"November 01, 2023",lapse
+P03546,"September 01, 2025",term_expiry
+ P00792 ,01-Dec-2025,maturity
+P01496,01-Feb-2024,reinstatement
+p00422,01-Mar-2023,reinstatement
+p02337,"September 01, 2025",term_expiry
+P01915,2023-06-01, lapse 
+P00628,2024-03-01,reinstatement
+P02428,2025-07-02,lapse
+P02246,2025-06-01,term_expiry
+p01487,01-Sep-2025,lapse
+P02929,"December 02, 2023",lapse
+P01129,2024-04-01,lapse
+P00902,01-Mar-2023,reinstatement
+P02810,2025/07/02,lapse
+P00610,2024-12-01,cancellation
+P01679,2023/11/01,lapse
+P02237,"November 01, 2025",lapse
+P01917,01-Jan-2025,reinstatement
+P03730,2023/09/01,lapse
+P02333,"December 02, 2025",lapse
+P01761,"August 01, 2023",lapse
+P02975,2023/02/01,lapse
+P00298,2025/09/01,term_expiry
+P03606,01-Feb-2025,TERM_EXPIRY
+P02204,"July 01, 2025",maturity
+P01983,"August 01, 2025",term_expiry
+P00187,01-Apr-2025,reinstatement
+P00652,"March 03, 2024",lapse
+P02432,01-Sep-2024,lapse
+P00415,01-Jul-2025,term_expiry
+p03659,2024-10-02,lapse
+P02380,2024/01/01,death_claim
+P00118, 2023-11-01 , lapse 
+P01286,"November 01, 2024",LAPSE
+P02836,2024-12-02,lapse
+p03857,"June 01, 2023",reinstatement
+P01110,01-Aug-2023,lapse
+P03716,"June 01, 2025",lapse
+P00946,2025/08/01,reinstatement
+P00835,2024/07/01,reinstatement
+P00715,"August 01, 2023",lapse
+P01221,2025/02/01,term_expiry
+P02214,02-Dec-2024,lapse
+P02478,01-Feb-2024,lapse
+P02695,2023-11-01,lapse
+P00054,"July 02, 2025",lapse
+P00015,01-Nov-2025,term_expiry
+P00445,01-May-2025,term_expiry
+P01515,2024/09/01,lapse
+P02204,2025-03-01,REINSTATEMENT
+P03780,2025-08-01,lapse
+P03074,2025/12/02,lapse
+P00963,2023/11/01,lapse
+P01267,2024/11/01,reinstatement
+p00273,2024/03/03,lapse
+P01749,2023-09-01,reinstatement
+P01179,2025/07/02,lapse
+P00588,"December 02, 2025",LAPSE
+p03182,"July 02, 2024",lapse
+ P02543 ,2025-06-01,reinstatement
+P01598,02-Oct-2024,lapse
+P03028,"May 01, 2025",death_claim
+P00538,2025-07-01,reinstatement
+P01563,"December 01, 2023",surrender
+ P01674 ,2025-07-01,surrender
+P02986,"January 01, 2024",LAPSE
+P03232,"March 03, 2024",LAPSE
+P00413,2025-03-04,lapse
+P01004,"March 04, 2025",lapse
+P03476,2024-09-01,lapse
+P01923,2023/10/02,lapse
+p00652,2025-12-02,lapse
+P00727,2025-07-01,cancellation
+p03435,2024/04/01,lapse
+P00169,2024-08-01,death_claim
+P02431,"July 02, 2024",lapse
+P02239,01-Apr-2023, lapse 
+P00214,2023-02-01,lapse
+P00555,2024-01-01,reinstatement
+P02039,2023/03/01,reinstatement
+P01797,01-Apr-2023,lapse
+P03203,2024-07-01,death_claim
+ P01229 ,2025-05-01, maturity 
+P02539,02-Dec-2023,lapse
+p01258,2023-06-01,LAPSE
+P03047,2025/01/01,term_expiry
+P01592,04-Mar-2025,lapse
+P03236,2023/06/01,lapse
+P00187,"December 01, 2024",reinstatement
+P02631,"September 01, 2024",surrender
+P00361,2024/10/01,reinstatement
+P03886,2023/08/01,lapse
+P02548,2025/08/01,death_claim
+P00065,01-Apr-2025,reinstatement
+P03921,"April 01, 2024",lapse
+P01185,2023-05-02,lapse
+P01827,2024/10/01,reinstatement
+P00814,2025-06-01,lapse
+P01042,"October 02, 2025",lapse
+P03863,"October 02, 2025",lapse
+p01922,2024-12-01,reinstatement
+P01917,01-Jan-2025,reinstatement
+P01324,2023-08-01,DEATH_CLAIM
+P03600,"January 01, 2025",reinstatement
+P00896,"July 01, 2025",term_expiry
+P01209,2024/06/01,lapse
+P03291, 2025-06-01 , lapse 
+P02546,2023-05-02,lapse
+P01050,"March 01, 2024",reinstatement
+ P00770 ,2024/01/01, lapse 
+P03882,2025-05-01,reinstatement
+p01697,"September 01, 2023",reinstatement
+P01744,2023-02-01,LAPSE
+P00740,01-Jul-2025,maturity
+P01552,01-Aug-2023,LAPSE
+P01254,02-Oct-2024,lapse
+P01243,01-Feb-2025,reinstatement
+P01055,"May 01, 2025",term_expiry
+P01417,01-Jan-2024,lapse
+P02493,2025-07-01,death_claim
+P03060,04-Mar-2023,lapse
+P03508,2025/07/02,lapse
+P02757,01-Jan-2025,reinstatement
+P01935,"March 03, 2024",lapse
+P01483,2023-05-01,death_claim
+P03078,2025-11-01,LAPSE
+P02376,2023/04/01,reinstatement
+p02847,2025-01-01,reinstatement
+P02561,01-Jun-2025,reinstatement
+P02360,"January 01, 2024",death_claim
+P00791,01-May-2024,reinstatement
+P00946,02-Jul-2025,lapse
+P03776,"March 04, 2025",lapse
+P01327,"November 01, 2023", lapse 
+P02815,2023/12/02,LAPSE
+P00042,2023-01-01,cancellation
+P02282,2025-06-01,term_expiry
+P00103,2024/03/01,surrender
+P01173,01-Mar-2024,REINSTATEMENT
+P01235,2023/01/01,DEATH_CLAIM
+P02700,"April 01, 2025",term_expiry
+P00055,2023/07/02,LAPSE
+p01557,2024/06/01,lapse
+P03413,2024-01-01,lapse
+P00805,2023/09/01, reinstatement 
+P01919,01-Aug-2023,lapse
+P03178,01-Nov-2024,lapse
+P01849,2023/09/01,lapse
+P03247,02-Dec-2025,lapse
+P02680,"July 01, 2023",death_claim
+p03796,2025/07/01,REINSTATEMENT
+P01333,2025/10/01,TERM_EXPIRY
+P03642,2025/05/01,reinstatement
+P00639,"November 01, 2023",reinstatement
+P03803,02-Dec-2023,lapse
+P02063,"September 01, 2023",lapse
+p03342,2025/10/01,maturity
+P01827,01-Sep-2024,lapse
+P01505,"August 01, 2024",lapse
+P01865, 01-Sep-2023 ,lapse
+P01360,01-Jun-2025,term_expiry
+P03780, 2025-09-01 ,reinstatement
+P03860,2023/11/01,lapse
+P02421,"May 02, 2025",lapse
+P00184,2025-02-01,LAPSE
+p01562,01-Oct-2025, term_expiry 
+P00451,2023-06-01,lapse
+ P00297 ,2025/10/02,lapse
+P01142,2023/03/04,lapse
+P02290,2023-11-01,lapse
+P02686,01-Jun-2025,term_expiry
+p01670,01-Nov-2025,term_expiry
+P01740,2024-06-01,lapse
+P01094,2024/11/01,reinstatement
+P01138,2025-04-01,lapse
+p01510,"May 02, 2023",lapse
+P03802,"April 01, 2024",lapse
+P01437,2024-06-01,reinstatement
+P00514,"September 01, 2024",reinstatement
+ P02486 ,"November 01, 2025",lapse
+P00354,2025/12/02,lapse
+P00374,"May 02, 2023",lapse
+P00402,2024-08-01,lapse
+p03124,"April 01, 2025",lapse
+p02432,04-Mar-2025,lapse
+P03021, 2025-03-01 ,death_claim
+P00445,01-Nov-2023,reinstatement
+P01709,2025/04/01,reinstatement
+ P02167 ,02-May-2025,lapse
+P02059,01-Nov-2023,reinstatement
+P02565, 01-Jan-2024 ,lapse
+P02219,"October 01, 2023",surrender
+P02171,01-Oct-2025,REINSTATEMENT
+P00082,2025-04-01,lapse
+P02890,"April 01, 2025",lapse
+p01891,2023-08-01,lapse
+P01464, 01-Apr-2023 ,lapse
+P03793,01-May-2025,reinstatement
+P00373,01-Aug-2025,maturity
+P01415,"May 01, 2025",term_expiry
+P02188,"October 02, 2024",lapse
+P02973,2024-02-01,lapse
+P00104,2025/05/02,lapse
+P03072,02-Oct-2025,lapse
+P03102,"July 02, 2024",lapse
+P01823,2023/05/02,LAPSE
+P03858,"September 01, 2023",lapse
+P00393,2023/07/01,reinstatement
+P00089,2023-05-02,lapse
+P03076,"November 01, 2025",lapse
+P01121,01-Jul-2023,surrender
+P00448,01-Apr-2025,lapse
+P01928,02-Dec-2025,lapse
+P03014,2023-11-01,reinstatement
+P01166,"June 01, 2024",reinstatement
+P01029,2023-05-01,reinstatement
+P03560,01-Dec-2024,reinstatement
+P03076,2025/04/01,LAPSE
+P00590,"September 01, 2025",reinstatement
+p02994,2025/09/01,lapse
+P01646,"December 02, 2024",lapse
+P03899,01-Apr-2025,lapse
+P00059,"December 02, 2023",lapse
+P03899,2025-05-01,reinstatement
+P02000,2024/04/01,lapse
+P02055,2023/07/01,reinstatement
+P03903,01-May-2025,term_expiry
+P00004,2025/09/01,LAPSE
+P03526,2024/05/01,reinstatement
+P00199,2023/07/01,REINSTATEMENT
+P01198,01-Sep-2023,lapse
+p03122,2023/09/01,reinstatement
+P02791,2024/10/02,lapse
+P01204,01-Jun-2023,lapse
+P02268,01-Dec-2025,MATURITY
+P02835,01-Jan-2025,term expiry
+P03435,01-Nov-2023,lapse
+P01492,01-Nov-2023,lapse
+P01132,2023/08/01,surrender
+P00294,01-Jun-2025,lapse
+P03092,02-May-2024,lapse
+P00202,01-Jan-2025,maturity
+P01547,2023/05/02,lapse
+P03854,"June 01, 2023",reinstatement
+P00585,2024-12-02,lapse
+P00041,"November 01, 2025",term_expiry
+P00863,2024/12/02,lapse
+P02886,2023-02-01,lapse
+P00398,2023-03-01,death_claim
+P01298,01-Jun-2025,death_claim
+P01176,2025/11/01,reinstatement
+P00851,01-Jun-2025,term_expiry
+P01047,2025-04-01,term_expiry
+P02658,2025/01/01,lapse
+P01678,01-Jun-2024,lapse
+P03721,02-Dec-2025,lapse
+P03424,"November 01, 2025",death claim
+P02028,"March 03, 2024",lapse
+p01428,2024/03/01,cancellation
+P02120,"July 01, 2025",CANCELLATION
+P03909,2025-11-01,lapse
+P01928,"February 01, 2025",LAPSE
+P03560,01-Nov-2025,lapse
+P01097,"June 01, 2025",reinstatement
+P01103, 01-Nov-2024 ,reinstatement
+P01717,2024/09/01,lapse
+P00497,04-Mar-2023,lapse
+P02002,2024/05/01,reinstatement
+ P03142 ," December 01, 2023 ",reinstatement
+P00310,04-Mar-2023,LAPSE
+P02057,2025-04-01,lapse
+p02080," June 01, 2024 ",lapse
+P02190,2025-10-02, lapse 
+p00153,2025/07/01,reinstatement
+P02552,2023-10-01,REINSTATEMENT
+P00286,01-Nov-2023,death_claim
