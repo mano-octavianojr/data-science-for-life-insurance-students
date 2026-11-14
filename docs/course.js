@@ -2,7 +2,7 @@
 // Only files inside docs/ are deployed by the GitHub Pages workflow.
 const courseWeeks = [
   { week: 1, topic: 'Course orientation, assessment, and logistics', slideUrl: 'slides/week-1.pdf', published: true },
-  { week: 2, topic: 'Business understanding and requirements', slideUrl: null, published: false },
+  { week: 2, topic: 'Business understanding and requirements', slideUrl: 'slides/week-2.pdf', published: true },
   { week: 3, topic: 'Data acquisition and understanding', slideUrl: null, published: false },
   { week: 4, topic: 'Data preparation and quality', slideUrl: null, published: false },
   { week: 5, topic: 'Retention performance', slideUrl: null, published: false },
